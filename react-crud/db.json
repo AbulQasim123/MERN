@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "name": "Salman Khan",
+      "username": "salman",
+      "email": "salman@gmail.com",
+      "age": 55,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Aamir Khan",
+      "username": "aamir",
+      "email": "aamir@gmail.com",
+      "age": 58
+    },
+    {
+      "id": "3",
+      "name": "Shah Rukh Khan",
+      "username": "srk",
+      "email": "srk@gmail.com",
+      "age": 59
+    },
+    {
+      "id": "4",
+      "name": "Hrithik Roshan",
+      "username": "hrithik",
+      "email": "hrithik@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "5",
+      "name": "Ranbir Kapoor",
+      "username": "ranbir",
+      "email": "ranbir@gmail.com",
+      "age": 42
+    },
+    {
+      "id": "6",
+      "name": "Akshay Kumar",
+      "username": "akshay",
+      "email": "akshay@gmail.com",
+      "age": 56
+    },
+    {
+      "id": "7",
+      "name": "Ajay Devgn",
+      "username": "ajay",
+      "email": "ajay@gmail.com",
+      "age": 55
+    },
+    {
+      "id": "8",
+      "name": "Varun Dhawan",
+      "username": "varun",
+      "email": "varun@gmail.com",
+      "age": 37
+    },
+    {
+      "id": "9",
+      "name": "Ranveer Singh",
+      "username": "ranveer",
+      "email": "ranveer@gmail.com",
+      "age": 39
+    },
+    {
+      "id": "10",
+      "name": "Vicky Kaushal",
+      "username": "vicky",
+      "email": "vicky@gmail.com",
+      "age": 36
+    },
+    {
+      "name": "AbulQasim",
+      "username": "qasim",
+      "email": "qasim@gmail.com",
+      "age": 25,
+      "id": "5756"
+    },
+    {
+      "id": "1e3e",
+      "name": "Alkama",
+      "username": "alka",
+      "email": "alka@gmail.com",
+      "age": 25
+    }
+  ]
+}

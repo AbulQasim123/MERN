@@ -1,0 +1,2620 @@
+[
+    {
+        "id": 1,
+        "question": "HTML stands for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "High Text Machine Language",
+            "Hyperlinks Text Mark Language",
+            "Home Tool Markup Language"
+        ],
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "id": 2,
+        "question": "Which tag is used to create a hyperlink?",
+        "options": [
+            "<link>",
+            "<a>",
+            "<href>",
+            "<url>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "id": 3,
+        "question": "Which CSS property controls text size?",
+        "options": [
+            "font-style",
+            "text-size",
+            "font-size",
+            "size"
+        ],
+        "answer": "font-size"
+    },
+    {
+        "id": 4,
+        "question": "Which is NOT a JavaScript data type?",
+        "options": [
+            "String",
+            "Boolean",
+            "Undefined",
+            "Character"
+        ],
+        "answer": "Character"
+    },
+    {
+        "id": 5,
+        "question": "Which symbol is used for comments in JavaScript?",
+        "options": [
+            "<!-- -->",
+            "//",
+            "#",
+            "**"
+        ],
+        "answer": "//"
+    },
+    {
+        "id": 6,
+        "question": "Which method converts JSON to object?",
+        "options": [
+            "JSON.parse()",
+            "JSON.stringify()",
+            "JSON.convert()",
+            "JSON.object()"
+        ],
+        "answer": "JSON.parse()"
+    },
+    {
+        "id": 7,
+        "question": "Which library is used for DOM manipulation?",
+        "options": [
+            "React",
+            "Vue",
+            "jQuery",
+            "Node"
+        ],
+        "answer": "jQuery"
+    },
+    {
+        "id": 8,
+        "question": "Bootstrap is a ____ framework?",
+        "options": [
+            "Backend",
+            "Frontend",
+            "Database",
+            "Testing"
+        ],
+        "answer": "Frontend"
+    },
+    {
+        "id": 9,
+        "question": "Which Bootstrap class creates a button?",
+        "options": [
+            "btn",
+            "button",
+            "btn-primary",
+            "btn-all"
+        ],
+        "answer": "btn"
+    },
+    {
+        "id": 10,
+        "question": "Tailwind CSS is based on?",
+        "options": [
+            "Components",
+            "Utility classes",
+            "Inline CSS",
+            "Themes"
+        ],
+        "answer": "Utility classes"
+    },
+    {
+        "id": 11,
+        "question": "React is mainly used for?",
+        "options": [
+            "Database",
+            "Server",
+            "Building UI",
+            "Authentication"
+        ],
+        "answer": "Building UI"
+    },
+    {
+        "id": 12,
+        "question": "Which hook manages state in React?",
+        "options": [
+            "useEffect",
+            "useState",
+            "useContext",
+            "useRef"
+        ],
+        "answer": "useState"
+    },
+    {
+        "id": 13,
+        "question": "Which hook runs side effects?",
+        "options": [
+            "useState",
+            "useMemo",
+            "useEffect",
+            "useRef"
+        ],
+        "answer": "useEffect"
+    },
+    {
+        "id": 14,
+        "question": "JSX stands for?",
+        "options": [
+            "JavaScript XML",
+            "JSON XML",
+            "Java Syntax X",
+            "JavaScript Extension"
+        ],
+        "answer": "JavaScript XML"
+    },
+    {
+        "id": 15,
+        "question": "Props in React are?",
+        "options": [
+            "Mutable",
+            "Read-only",
+            "Global",
+            "State"
+        ],
+        "answer": "Read-only"
+    },
+    {
+        "id": 16,
+        "question": "Node.js is?",
+        "options": [
+            "Frontend framework",
+            "Runtime environment",
+            "Database",
+            "Browser"
+        ],
+        "answer": "Runtime environment"
+    },
+    {
+        "id": 17,
+        "question": "Express is used for?",
+        "options": [
+            "UI",
+            "Routing",
+            "Database",
+            "CSS"
+        ],
+        "answer": "Routing"
+    },
+    {
+        "id": 18,
+        "question": "Which command initializes Node project?",
+        "options": [
+            "npm start",
+            "npm init",
+            "node init",
+            "npm install"
+        ],
+        "answer": "npm init"
+    },
+    {
+        "id": 19,
+        "question": "Which method handles GET requests in Express?",
+        "options": [
+            "app.post()",
+            "app.get()",
+            "app.put()",
+            "app.delete()"
+        ],
+        "answer": "app.get()"
+    },
+    {
+        "id": 20,
+        "question": "Middleware in Express is used for?",
+        "options": [
+            "Styling",
+            "Request handling",
+            "Database",
+            "UI"
+        ],
+        "answer": "Request handling"
+    },
+    {
+        "id": 21,
+        "question": "Laravel is written in?",
+        "options": [
+            "Java",
+            "Python",
+            "PHP",
+            "JS"
+        ],
+        "answer": "PHP"
+    },
+    {
+        "id": 22,
+        "question": "Which file defines routes in Laravel?",
+        "options": [
+            "web.php",
+            "route.php",
+            "index.php",
+            "api.js"
+        ],
+        "answer": "web.php"
+    },
+    {
+        "id": 23,
+        "question": "Laravel ORM is?",
+        "options": [
+            "Doctrine",
+            "Hibernate",
+            "Eloquent",
+            "Active"
+        ],
+        "answer": "Eloquent"
+    },
+    {
+        "id": 24,
+        "question": "Blade is Laravel’s?",
+        "options": [
+            "Database",
+            "Template engine",
+            "Auth",
+            "Cache"
+        ],
+        "answer": "Template engine"
+    },
+    {
+        "id": 25,
+        "question": "Which artisan command runs server?",
+        "options": [
+            "php artisan serve",
+            "php artisan start",
+            "php run",
+            "laravel serve"
+        ],
+        "answer": "php artisan serve"
+    },
+    {
+        "id": 26,
+        "question": "MySQL is a?",
+        "options": [
+            "NoSQL DB",
+            "Relational DB",
+            "Frontend tool",
+            "API"
+        ],
+        "answer": "Relational DB"
+    },
+    {
+        "id": 27,
+        "question": "MongoDB stores data as?",
+        "options": [
+            "Tables",
+            "Rows",
+            "Documents",
+            "Columns"
+        ],
+        "answer": "Documents"
+    },
+    {
+        "id": 28,
+        "question": "Which query fetches all rows?",
+        "options": [
+            "SELECT *",
+            "GET ALL",
+            "FETCH",
+            "READ"
+        ],
+        "answer": "SELECT *"
+    },
+    {
+        "id": 29,
+        "question": "Primary key is?",
+        "options": [
+            "Duplicate",
+            "Nullable",
+            "Unique",
+            "Optional"
+        ],
+        "answer": "Unique"
+    },
+    {
+        "id": 30,
+        "question": "Foreign key is used for?",
+        "options": [
+            "Indexing",
+            "Relations",
+            "Speed",
+            "Backup"
+        ],
+        "answer": "Relations"
+    },
+    {
+        "id": 31,
+        "question": "JWT stands for?",
+        "options": [
+            "Java Web Token",
+            "JSON Web Token",
+            "JS Web Token",
+            "JavaScript Web Token"
+        ],
+        "answer": "JSON Web Token"
+    },
+    {
+        "id": 32,
+        "question": "JWT contains?",
+        "options": [
+            "Header, Payload, Signature",
+            "Body only",
+            "Token ID",
+            "Session ID"
+        ],
+        "answer": "Header, Payload, Signature"
+    },
+    {
+        "id": 33,
+        "question": "Sanctum is used for?",
+        "options": [
+            "UI",
+            "Authentication",
+            "Queue",
+            "Cache"
+        ],
+        "answer": "Authentication"
+    },
+    {
+        "id": 34,
+        "question": "Passport is used in?",
+        "options": [
+            "Laravel",
+            "Node.js",
+            "React",
+            "MySQL"
+        ],
+        "answer": "Node.js"
+    },
+    {
+        "id": 35,
+        "question": "Bearer token is sent in?",
+        "options": [
+            "Body",
+            "Query",
+            "Header",
+            "Cookie"
+        ],
+        "answer": "Header"
+    },
+    {
+        "id": 36,
+        "question": "REST API uses which protocol?",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "SSH"
+        ],
+        "answer": "HTTP"
+    },
+    {
+        "id": 37,
+        "question": "Which HTTP method creates data?",
+        "options": [
+            "GET",
+            "POST",
+            "PUT",
+            "DELETE"
+        ],
+        "answer": "POST"
+    },
+    {
+        "id": 38,
+        "question": "Which HTTP method updates data?",
+        "options": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH"
+        ],
+        "answer": "PUT"
+    },
+    {
+        "id": 39,
+        "question": "Which HTTP method deletes data?",
+        "options": [
+            "REMOVE",
+            "DELETE",
+            "DROP",
+            "CLEAR"
+        ],
+        "answer": "DELETE"
+    },
+    {
+        "id": 40,
+        "question": "Status code 200 means?",
+        "options": [
+            "Error",
+            "Success",
+            "Unauthorized",
+            "Not Found"
+        ],
+        "answer": "Success"
+    },
+    {
+        "id": 41,
+        "question": "Git is used for?",
+        "options": [
+            "Styling",
+            "Version control",
+            "Database",
+            "Hosting"
+        ],
+        "answer": "Version control"
+    },
+    {
+        "id": 42,
+        "question": "Which command checks git status?",
+        "options": [
+            "git check",
+            "git status",
+            "git log",
+            "git branch"
+        ],
+        "answer": "git status"
+    },
+    {
+        "id": 43,
+        "question": "GitHub is?",
+        "options": [
+            "IDE",
+            "Hosting platform",
+            "Database",
+            "Framework"
+        ],
+        "answer": "Hosting platform"
+    },
+    {
+        "id": 44,
+        "question": "Which command pushes code?",
+        "options": [
+            "git add",
+            "git commit",
+            "git push",
+            "git pull"
+        ],
+        "answer": "git push"
+    },
+    {
+        "id": 45,
+        "question": "Postman is used for?",
+        "options": [
+            "UI",
+            "API testing",
+            "Database",
+            "Hosting"
+        ],
+        "answer": "API testing"
+    },
+    {
+        "id": 46,
+        "question": "Which git command creates a new branch?",
+        "options": [
+            "git branch",
+            "git checkout",
+            "git new",
+            "git create"
+        ],
+        "answer": "git branch"
+    },
+    {
+        "id": 47,
+        "question": "Which git command switches branch?",
+        "options": [
+            "git move",
+            "git switch",
+            "git change",
+            "git swap"
+        ],
+        "answer": "git switch"
+    },
+    {
+        "id": 48,
+        "question": "Which HTTP status means Unauthorized?",
+        "options": [
+            "200",
+            "401",
+            "404",
+            "500"
+        ],
+        "answer": "401"
+    },
+    {
+        "id": 49,
+        "question": "Which HTTP status means Not Found?",
+        "options": [
+            "200",
+            "403",
+            "404",
+            "500"
+        ],
+        "answer": "404"
+    },
+    {
+        "id": 50,
+        "question": "Which HTTP status means Server Error?",
+        "options": [
+            "200",
+            "401",
+            "404",
+            "500"
+        ],
+        "answer": "500"
+    },
+    {
+        "id": 51,
+        "question": "Which JavaScript keyword declares constant?",
+        "options": [
+            "var",
+            "let",
+            "const",
+            "static"
+        ],
+        "answer": "const"
+    },
+    {
+        "id": 52,
+        "question": "Which keyword creates block scoped variable?",
+        "options": [
+            "var",
+            "let",
+            "global",
+            "scope"
+        ],
+        "answer": "let"
+    },
+    {
+        "id": 53,
+        "question": "Which array method adds element at end?",
+        "options": [
+            "push()",
+            "pop()",
+            "shift()",
+            "unshift()"
+        ],
+        "answer": "push()"
+    },
+    {
+        "id": 54,
+        "question": "Which array method removes last element?",
+        "options": [
+            "pop()",
+            "push()",
+            "shift()",
+            "slice()"
+        ],
+        "answer": "pop()"
+    },
+    {
+        "id": 55,
+        "question": "Which function converts object to JSON?",
+        "options": [
+            "JSON.parse()",
+            "JSON.stringify()",
+            "JSON.convert()",
+            "JSON.object()"
+        ],
+        "answer": "JSON.stringify()"
+    },
+    {
+        "id": 56,
+        "question": "What is closure in JavaScript?",
+        "options": [
+            "Function inside function",
+            "Loop",
+            "Condition",
+            "Array"
+        ],
+        "answer": "Function inside function"
+    },
+    {
+        "id": 57,
+        "question": "Promise states include?",
+        "options": [
+            "Pending, Resolved, Rejected",
+            "Start, End",
+            "True, False",
+            "Init, Done"
+        ],
+        "answer": "Pending, Resolved, Rejected"
+    },
+    {
+        "id": 58,
+        "question": "Which keyword handles errors?",
+        "options": [
+            "catch",
+            "try",
+            "throw",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 59,
+        "question": "Which method executes async code?",
+        "options": [
+            "await",
+            "sync",
+            "delay",
+            "wait"
+        ],
+        "answer": "await"
+    },
+    {
+        "id": 60,
+        "question": "Which loop iterates array easily?",
+        "options": [
+            "for",
+            "forEach",
+            "while",
+            "do-while"
+        ],
+        "answer": "forEach"
+    },
+    {
+        "id": 61,
+        "question": "Which React hook accesses context?",
+        "options": [
+            "useState",
+            "useEffect",
+            "useContext",
+            "useReducer"
+        ],
+        "answer": "useContext"
+    },
+    {
+        "id": 62,
+        "question": "Which hook improves performance?",
+        "options": [
+            "useEffect",
+            "useMemo",
+            "useState",
+            "useRef"
+        ],
+        "answer": "useMemo"
+    },
+    {
+        "id": 63,
+        "question": "Which hook stores mutable value?",
+        "options": [
+            "useRef",
+            "useState",
+            "useEffect",
+            "useMemo"
+        ],
+        "answer": "useRef"
+    },
+    {
+        "id": 64,
+        "question": "React renders UI using?",
+        "options": [
+            "Real DOM",
+            "Virtual DOM",
+            "Shadow DOM",
+            "HTML DOM"
+        ],
+        "answer": "Virtual DOM"
+    },
+    {
+        "id": 65,
+        "question": "Key prop is used for?",
+        "options": [
+            "Styling",
+            "Identification",
+            "State",
+            "Events"
+        ],
+        "answer": "Identification"
+    },
+    {
+        "id": 66,
+        "question": "Which Node module handles files?",
+        "options": [
+            "http",
+            "fs",
+            "path",
+            "url"
+        ],
+        "answer": "fs"
+    },
+    {
+        "id": 67,
+        "question": "Which Node module creates server?",
+        "options": [
+            "fs",
+            "http",
+            "express",
+            "server"
+        ],
+        "answer": "http"
+    },
+    {
+        "id": 68,
+        "question": "Which Express method parses JSON?",
+        "options": [
+            "express.json()",
+            "bodyParser()",
+            "app.json()",
+            "json.parse()"
+        ],
+        "answer": "express.json()"
+    },
+    {
+        "id": 69,
+        "question": "Which status code is Created?",
+        "options": [
+            "200",
+            "201",
+            "204",
+            "301"
+        ],
+        "answer": "201"
+    },
+    {
+        "id": 70,
+        "question": "Which tool handles environment variables?",
+        "options": [
+            "dotenv",
+            "env",
+            "config",
+            "settings"
+        ],
+        "answer": "dotenv"
+    },
+    {
+        "id": 71,
+        "question": "Which Laravel file stores middleware?",
+        "options": [
+            "Kernel.php",
+            "Handler.php",
+            "Controller.php",
+            "Route.php"
+        ],
+        "answer": "Kernel.php"
+    },
+    {
+        "id": 72,
+        "question": "Which command creates middleware?",
+        "options": [
+            "make:middleware",
+            "create:middleware",
+            "artisan middleware",
+            "new middleware"
+        ],
+        "answer": "make:middleware"
+    },
+    {
+        "id": 73,
+        "question": "Which Laravel feature handles queues?",
+        "options": [
+            "Jobs",
+            "Events",
+            "Cache",
+            "Tasks"
+        ],
+        "answer": "Jobs"
+    },
+    {
+        "id": 74,
+        "question": "Which command clears route cache?",
+        "options": [
+            "route:clear",
+            "cache:clear",
+            "config:clear",
+            "view:clear"
+        ],
+        "answer": "route:clear"
+    },
+    {
+        "id": 75,
+        "question": "Which blade directive checks condition?",
+        "options": [
+            "@foreach",
+            "@if",
+            "@while",
+            "@switch"
+        ],
+        "answer": "@if"
+    },
+    {
+        "id": 76,
+        "question": "Which MongoDB method inserts data?",
+        "options": [
+            "insertOne()",
+            "add()",
+            "save()",
+            "push()"
+        ],
+        "answer": "insertOne()"
+    },
+    {
+        "id": 77,
+        "question": "Which MongoDB method finds data?",
+        "options": [
+            "find()",
+            "get()",
+            "select()",
+            "fetch()"
+        ],
+        "answer": "find()"
+    },
+    {
+        "id": 78,
+        "question": "Which SQL command deletes record?",
+        "options": [
+            "REMOVE",
+            "DROP",
+            "DELETE",
+            "CLEAR"
+        ],
+        "answer": "DELETE"
+    },
+    {
+        "id": 79,
+        "question": "Which SQL clause filters records?",
+        "options": [
+            "WHERE",
+            "FROM",
+            "SELECT",
+            "ORDER"
+        ],
+        "answer": "WHERE"
+    },
+    {
+        "id": 80,
+        "question": "Index in DB improves?",
+        "options": [
+            "Security",
+            "Speed",
+            "Size",
+            "Backup"
+        ],
+        "answer": "Speed"
+    },
+    {
+        "id": 81,
+        "question": "JWT is stateless because?",
+        "options": [
+            "Stored in DB",
+            "Stored on server",
+            "Stored on client",
+            "Uses cookies"
+        ],
+        "answer": "Stored on client"
+    },
+    {
+        "id": 82,
+        "question": "JWT expiry is set using?",
+        "options": [
+            "exp",
+            "time",
+            "ttl",
+            "end"
+        ],
+        "answer": "exp"
+    },
+    {
+        "id": 83,
+        "question": "Sanctum supports?",
+        "options": [
+            "SPA Auth",
+            "Session Auth",
+            "Token Auth",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 84,
+        "question": "Passport strategy example?",
+        "options": [
+            "JWT",
+            "Local",
+            "OAuth",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 85,
+        "question": "Auth middleware checks?",
+        "options": [
+            "Request",
+            "Token",
+            "User",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 86,
+        "question": "REST API should be?",
+        "options": [
+            "Stateful",
+            "Stateless",
+            "Session based",
+            "Cookie based"
+        ],
+        "answer": "Stateless"
+    },
+    {
+        "id": 87,
+        "question": "Which format is commonly used in APIs?",
+        "options": [
+            "XML",
+            "JSON",
+            "TXT",
+            "CSV"
+        ],
+        "answer": "JSON"
+    },
+    {
+        "id": 88,
+        "question": "Which header sends auth token?",
+        "options": [
+            "Content-Type",
+            "Authorization",
+            "Accept",
+            "Host"
+        ],
+        "answer": "Authorization"
+    },
+    {
+        "id": 89,
+        "question": "CORS relates to?",
+        "options": [
+            "Security",
+            "Database",
+            "Styling",
+            "Routing"
+        ],
+        "answer": "Security"
+    },
+    {
+        "id": 90,
+        "question": "API rate limiting prevents?",
+        "options": [
+            "Spam",
+            "Auth",
+            "Cache",
+            "Errors"
+        ],
+        "answer": "Spam"
+    },
+    {
+        "id": 91,
+        "question": "Which git command merges branch?",
+        "options": [
+            "git join",
+            "git merge",
+            "git pull",
+            "git push"
+        ],
+        "answer": "git merge"
+    },
+    {
+        "id": 92,
+        "question": "Which git command downloads changes?",
+        "options": [
+            "git fetch",
+            "git pull",
+            "git clone",
+            "git load"
+        ],
+        "answer": "git pull"
+    },
+    {
+        "id": 93,
+        "question": "Postman environment is used for?",
+        "options": [
+            "Variables",
+            "Themes",
+            "Users",
+            "Routes"
+        ],
+        "answer": "Variables"
+    },
+    {
+        "id": 94,
+        "question": "Which tool debugs API?",
+        "options": [
+            "Git",
+            "Postman",
+            "Docker",
+            "NPM"
+        ],
+        "answer": "Postman"
+    },
+    {
+        "id": 95,
+        "question": "Which HTTP method is idempotent?",
+        "options": [
+            "GET",
+            "PUT",
+            "DELETE",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 96,
+        "question": "MVC stands for?",
+        "options": [
+            "Model View Controller",
+            "Main View Code",
+            "Module View Control",
+            "Model Version Controller"
+        ],
+        "answer": "Model View Controller"
+    },
+    {
+        "id": 97,
+        "question": "Controller handles?",
+        "options": [
+            "Logic",
+            "UI",
+            "DB",
+            "CSS"
+        ],
+        "answer": "Logic"
+    },
+    {
+        "id": 98,
+        "question": "Model interacts with?",
+        "options": [
+            "Routes",
+            "Views",
+            "Database",
+            "CSS"
+        ],
+        "answer": "Database"
+    },
+    {
+        "id": 99,
+        "question": "View handles?",
+        "options": [
+            "Logic",
+            "Routing",
+            "UI",
+            "Auth"
+        ],
+        "answer": "UI"
+    },
+    {
+        "id": 100,
+        "question": "Full stack developer works on?",
+        "options": [
+            "Frontend",
+            "Backend",
+            "Database",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 101,
+        "question": "Which CSS property controls element spacing inside?",
+        "options": [
+            "margin",
+            "padding",
+            "gap",
+            "space"
+        ],
+        "answer": "padding"
+    },
+    {
+        "id": 102,
+        "question": "Which CSS property controls spacing outside element?",
+        "options": [
+            "margin",
+            "padding",
+            "border",
+            "gap"
+        ],
+        "answer": "margin"
+    },
+    {
+        "id": 103,
+        "question": "Flexbox main axis is controlled by?",
+        "options": [
+            "align-items",
+            "justify-content",
+            "flex-wrap",
+            "align-content"
+        ],
+        "answer": "justify-content"
+    },
+    {
+        "id": 104,
+        "question": "Which Tailwind class applies flexbox?",
+        "options": [
+            "flex",
+            "d-flex",
+            "display-flex",
+            "box-flex"
+        ],
+        "answer": "flex"
+    },
+    {
+        "id": 105,
+        "question": "Bootstrap grid is based on how many columns?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "16"
+        ],
+        "answer": "12"
+    },
+    {
+        "id": 106,
+        "question": "Which JavaScript method selects element by ID?",
+        "options": [
+            "querySelector()",
+            "getElement()",
+            "getElementById()",
+            "selectById()"
+        ],
+        "answer": "getElementById()"
+    },
+    {
+        "id": 107,
+        "question": "Which operator checks value and type?",
+        "options": [
+            "==",
+            "=",
+            "===",
+            "!="
+        ],
+        "answer": "==="
+    },
+    {
+        "id": 108,
+        "question": "NaN stands for?",
+        "options": [
+            "No any Number",
+            "Not a Name",
+            "Not a Number",
+            "Null and Number"
+        ],
+        "answer": "Not a Number"
+    },
+    {
+        "id": 109,
+        "question": "Which keyword stops loop?",
+        "options": [
+            "stop",
+            "end",
+            "break",
+            "exit"
+        ],
+        "answer": "break"
+    },
+    {
+        "id": 110,
+        "question": "Which keyword skips iteration?",
+        "options": [
+            "skip",
+            "continue",
+            "next",
+            "pass"
+        ],
+        "answer": "continue"
+    },
+    {
+        "id": 111,
+        "question": "Which React hook handles complex state?",
+        "options": [
+            "useState",
+            "useEffect",
+            "useReducer",
+            "useMemo"
+        ],
+        "answer": "useReducer"
+    },
+    {
+        "id": 112,
+        "question": "Controlled component means?",
+        "options": [
+            "DOM controls state",
+            "React controls state",
+            "Browser controls state",
+            "Redux controls state"
+        ],
+        "answer": "React controls state"
+    },
+    {
+        "id": 113,
+        "question": "React Fragment is used to?",
+        "options": [
+            "Add div",
+            "Group elements",
+            "Improve CSS",
+            "Handle state"
+        ],
+        "answer": "Group elements"
+    },
+    {
+        "id": 114,
+        "question": "Which prop handles input change?",
+        "options": [
+            "onClick",
+            "onSubmit",
+            "onChange",
+            "onInput"
+        ],
+        "answer": "onChange"
+    },
+    {
+        "id": 115,
+        "question": "SPA stands for?",
+        "options": [
+            "Single Page App",
+            "Server Page App",
+            "Simple Page App",
+            "Static Page App"
+        ],
+        "answer": "Single Page App"
+    },
+    {
+        "id": 116,
+        "question": "Which Express middleware handles errors?",
+        "options": [
+            "next()",
+            "error()",
+            "catch()",
+            "throw()"
+        ],
+        "answer": "next()"
+    },
+    {
+        "id": 117,
+        "question": "Which Node package manages dependencies?",
+        "options": [
+            "node",
+            "npm",
+            "express",
+            "yarn"
+        ],
+        "answer": "npm"
+    },
+    {
+        "id": 118,
+        "question": "Which file lists Node dependencies?",
+        "options": [
+            "package.json",
+            "node.json",
+            "config.json",
+            "dependencies.json"
+        ],
+        "answer": "package.json"
+    },
+    {
+        "id": 119,
+        "question": "Which Express method sends response?",
+        "options": [
+            "res.send()",
+            "res.get()",
+            "res.read()",
+            "res.output()"
+        ],
+        "answer": "res.send()"
+    },
+    {
+        "id": 120,
+        "question": "Which status code means No Content?",
+        "options": [
+            "200",
+            "201",
+            "204",
+            "301"
+        ],
+        "answer": "204"
+    },
+    {
+        "id": 121,
+        "question": "Which Laravel command creates controller?",
+        "options": [
+            "make:controller",
+            "create:controller",
+            "artisan controller",
+            "new:controller"
+        ],
+        "answer": "make:controller"
+    },
+    {
+        "id": 122,
+        "question": "Which Laravel method validates request?",
+        "options": [
+            "check()",
+            "validate()",
+            "verify()",
+            "rules()"
+        ],
+        "answer": "validate()"
+    },
+    {
+        "id": 123,
+        "question": "Which Laravel helper redirects user?",
+        "options": [
+            "view()",
+            "route()",
+            "redirect()",
+            "url()"
+        ],
+        "answer": "redirect()"
+    },
+    {
+        "id": 124,
+        "question": "Which Laravel feature schedules tasks?",
+        "options": [
+            "Queue",
+            "Cron",
+            "Scheduler",
+            "Job"
+        ],
+        "answer": "Scheduler"
+    },
+    {
+        "id": 125,
+        "question": "Which Laravel command lists routes?",
+        "options": [
+            "route:list",
+            "routes:show",
+            "list:route",
+            "show:routes"
+        ],
+        "answer": "route:list"
+    },
+    {
+        "id": 126,
+        "question": "Which SQL command updates record?",
+        "options": [
+            "UPDATE",
+            "MODIFY",
+            "CHANGE",
+            "SET"
+        ],
+        "answer": "UPDATE"
+    },
+    {
+        "id": 127,
+        "question": "Which SQL clause sorts result?",
+        "options": [
+            "GROUP BY",
+            "ORDER BY",
+            "SORT",
+            "FILTER"
+        ],
+        "answer": "ORDER BY"
+    },
+    {
+        "id": 128,
+        "question": "MongoDB is?",
+        "options": [
+            "Relational DB",
+            "NoSQL DB",
+            "Graph DB",
+            "File DB"
+        ],
+        "answer": "NoSQL DB"
+    },
+    {
+        "id": 129,
+        "question": "Which MongoDB field is unique by default?",
+        "options": [
+            "id",
+            "_id",
+            "uuid",
+            "key"
+        ],
+        "answer": "_id"
+    },
+    {
+        "id": 130,
+        "question": "Normalization reduces?",
+        "options": [
+            "Performance",
+            "Redundancy",
+            "Security",
+            "Indexes"
+        ],
+        "answer": "Redundancy"
+    },
+    {
+        "id": 131,
+        "question": "JWT is usually stored in?",
+        "options": [
+            "Database",
+            "Session",
+            "LocalStorage",
+            "Cache"
+        ],
+        "answer": "LocalStorage"
+    },
+    {
+        "id": 132,
+        "question": "Which auth uses cookies by default?",
+        "options": [
+            "JWT",
+            "Sanctum",
+            "Passport",
+            "OAuth"
+        ],
+        "answer": "Sanctum"
+    },
+    {
+        "id": 133,
+        "question": "OAuth is used for?",
+        "options": [
+            "Authorization",
+            "Authentication",
+            "Styling",
+            "Database"
+        ],
+        "answer": "Authorization"
+    },
+    {
+        "id": 134,
+        "question": "Token-based auth is?",
+        "options": [
+            "Stateful",
+            "Stateless",
+            "Session based",
+            "Cookie based"
+        ],
+        "answer": "Stateless"
+    },
+    {
+        "id": 135,
+        "question": "Refresh token is used to?",
+        "options": [
+            "Login",
+            "Extend access",
+            "Logout",
+            "Encrypt"
+        ],
+        "answer": "Extend access"
+    },
+    {
+        "id": 136,
+        "question": "REST API uses resources identified by?",
+        "options": [
+            "ID",
+            "URL",
+            "Token",
+            "Session"
+        ],
+        "answer": "URL"
+    },
+    {
+        "id": 137,
+        "question": "Which HTTP method partially updates?",
+        "options": [
+            "PUT",
+            "PATCH",
+            "POST",
+            "GET"
+        ],
+        "answer": "PATCH"
+    },
+    {
+        "id": 138,
+        "question": "Which response format is lightweight?",
+        "options": [
+            "XML",
+            "JSON",
+            "HTML",
+            "CSV"
+        ],
+        "answer": "JSON"
+    },
+    {
+        "id": 139,
+        "question": "API pagination improves?",
+        "options": [
+            "Security",
+            "Performance",
+            "Auth",
+            "UI"
+        ],
+        "answer": "Performance"
+    },
+    {
+        "id": 140,
+        "question": "Idempotent request means?",
+        "options": [
+            "Same result always",
+            "Faster request",
+            "Cached request",
+            "Secure request"
+        ],
+        "answer": "Same result always"
+    },
+    {
+        "id": 141,
+        "question": "Which git command shows commit history?",
+        "options": [
+            "git log",
+            "git status",
+            "git show",
+            "git history"
+        ],
+        "answer": "git log"
+    },
+    {
+        "id": 142,
+        "question": "Fork in GitHub means?",
+        "options": [
+            "Clone repo",
+            "Copy repo",
+            "Delete repo",
+            "Merge repo"
+        ],
+        "answer": "Copy repo"
+    },
+    {
+        "id": 143,
+        "question": "Pull Request is used to?",
+        "options": [
+            "Push code",
+            "Review code",
+            "Delete branch",
+            "Deploy app"
+        ],
+        "answer": "Review code"
+    },
+    {
+        "id": 144,
+        "question": "Which tool tests APIs manually?",
+        "options": [
+            "Git",
+            "Postman",
+            "Webpack",
+            "Nginx"
+        ],
+        "answer": "Postman"
+    },
+    {
+        "id": 145,
+        "question": "Which HTTP status means Forbidden?",
+        "options": [
+            "401",
+            "403",
+            "404",
+            "500"
+        ],
+        "answer": "403"
+    },
+    {
+        "id": 146,
+        "question": "MVC improves code?",
+        "options": [
+            "Security",
+            "Maintainability",
+            "Speed",
+            "Size"
+        ],
+        "answer": "Maintainability"
+    },
+    {
+        "id": 147,
+        "question": "Separation of concerns means?",
+        "options": [
+            "One file",
+            "One responsibility",
+            "More logic",
+            "Less files"
+        ],
+        "answer": "One responsibility"
+    },
+    {
+        "id": 148,
+        "question": "Full stack developer should understand?",
+        "options": [
+            "Frontend",
+            "Backend",
+            "Database",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 149,
+        "question": "Clean code is?",
+        "options": [
+            "Readable",
+            "Short",
+            "Fast",
+            "Complex"
+        ],
+        "answer": "Readable"
+    },
+    {
+        "id": 150,
+        "question": "Best practice for production secrets?",
+        "options": [
+            "Hardcode",
+            "Commit to git",
+            "Use env variables",
+            "Store in JS"
+        ],
+        "answer": "Use env variables"
+    },
+    {
+        "id": 151,
+        "question": "Which CSS property controls layout using flexbox?",
+        "options": [
+            "display",
+            "position",
+            "float",
+            "overflow"
+        ],
+        "answer": "display"
+    },
+    {
+        "id": 152,
+        "question": "Which flexbox value enables flex layout?",
+        "options": [
+            "block",
+            "inline",
+            "flex",
+            "grid"
+        ],
+        "answer": "flex"
+    },
+    {
+        "id": 153,
+        "question": "Which Tailwind class adds padding?",
+        "options": [
+            "m-4",
+            "p-4",
+            "px-4",
+            "py-4"
+        ],
+        "answer": "p-4"
+    },
+    {
+        "id": 154,
+        "question": "Which Bootstrap class centers text?",
+        "options": [
+            "text-center",
+            "align-center",
+            "center-text",
+            "justify-center"
+        ],
+        "answer": "text-center"
+    },
+    {
+        "id": 155,
+        "question": "Which HTML element is semantic?",
+        "options": [
+            "<div>",
+            "<span>",
+            "<section>",
+            "<b>"
+        ],
+        "answer": "<section>"
+    },
+    {
+        "id": 156,
+        "question": "Which operator compares value and type?",
+        "options": [
+            "==",
+            "=",
+            "===",
+            "!="
+        ],
+        "answer": "==="
+    },
+    {
+        "id": 157,
+        "question": "Which keyword stops loop execution?",
+        "options": [
+            "continue",
+            "stop",
+            "exit",
+            "break"
+        ],
+        "answer": "break"
+    },
+    {
+        "id": 158,
+        "question": "Which function delays execution?",
+        "options": [
+            "setTimeout()",
+            "setInterval()",
+            "delay()",
+            "wait()"
+        ],
+        "answer": "setTimeout()"
+    },
+    {
+        "id": 159,
+        "question": "Which array method returns new array?",
+        "options": [
+            "forEach()",
+            "map()",
+            "push()",
+            "pop()"
+        ],
+        "answer": "map()"
+    },
+    {
+        "id": 160,
+        "question": "Which prop renders children components?",
+        "options": [
+            "props.data",
+            "props.render",
+            "props.children",
+            "props.child"
+        ],
+        "answer": "props.children"
+    },
+    {
+        "id": 161,
+        "question": "React component must return?",
+        "options": [
+            "HTML",
+            "JSX",
+            "String",
+            "Object"
+        ],
+        "answer": "JSX"
+    },
+    {
+        "id": 162,
+        "question": "Which lifecycle hook runs once?",
+        "options": [
+            "useEffect([])",
+            "useState()",
+            "useMemo()",
+            "useRef()"
+        ],
+        "answer": "useEffect([])"
+    },
+    {
+        "id": 163,
+        "question": "Which router is used in React?",
+        "options": [
+            "react-router-dom",
+            "react-router",
+            "react-navigation",
+            "router-js"
+        ],
+        "answer": "react-router-dom"
+    },
+    {
+        "id": 164,
+        "question": "Which method sends JSON response?",
+        "options": [
+            "res.send()",
+            "res.json()",
+            "res.end()",
+            "res.write()"
+        ],
+        "answer": "res.json()"
+    },
+    {
+        "id": 165,
+        "question": "Which Node feature supports non-blocking IO?",
+        "options": [
+            "Threads",
+            "Event loop",
+            "Promises",
+            "Callbacks"
+        ],
+        "answer": "Event loop"
+    },
+    {
+        "id": 166,
+        "question": "Which HTTP header defines response type?",
+        "options": [
+            "Accept",
+            "Content-Type",
+            "Authorization",
+            "Origin"
+        ],
+        "answer": "Content-Type"
+    },
+    {
+        "id": 167,
+        "question": "Which npm command installs dependency?",
+        "options": [
+            "npm start",
+            "npm add",
+            "npm install",
+            "npm init"
+        ],
+        "answer": "npm install"
+    },
+    {
+        "id": 168,
+        "question": "Which artisan command lists routes?",
+        "options": [
+            "route:list",
+            "routes:show",
+            "list:route",
+            "show:routes"
+        ],
+        "answer": "route:list"
+    },
+    {
+        "id": 169,
+        "question": "Which relationship defines one-to-one?",
+        "options": [
+            "hasMany",
+            "belongsToMany",
+            "hasOne",
+            "manyToOne"
+        ],
+        "answer": "hasOne"
+    },
+    {
+        "id": 170,
+        "question": "Which Laravel feature handles scheduling?",
+        "options": [
+            "Queues",
+            "Cron",
+            "Scheduler",
+            "Tasks"
+        ],
+        "answer": "Scheduler"
+    },
+    {
+        "id": 171,
+        "question": "Which SQL function counts records?",
+        "options": [
+            "SUM()",
+            "TOTAL()",
+            "COUNT()",
+            "NUMBER()"
+        ],
+        "answer": "COUNT()"
+    },
+    {
+        "id": 172,
+        "question": "Which database normal form removes redundancy?",
+        "options": [
+            "1NF",
+            "2NF",
+            "3NF",
+            "BCNF"
+        ],
+        "answer": "3NF"
+    },
+    {
+        "id": 173,
+        "question": "Which query sorts results?",
+        "options": [
+            "GROUP BY",
+            "ORDER BY",
+            "SORT",
+            "FILTER"
+        ],
+        "answer": "ORDER BY"
+    },
+    {
+        "id": 174,
+        "question": "Which SQL join returns matching rows?",
+        "options": [
+            "LEFT JOIN",
+            "RIGHT JOIN",
+            "INNER JOIN",
+            "FULL JOIN"
+        ],
+        "answer": "INNER JOIN"
+    },
+    {
+        "id": 175,
+        "question": "JWT signature ensures?",
+        "options": [
+            "Speed",
+            "Encryption",
+            "Integrity",
+            "Compression"
+        ],
+        "answer": "Integrity"
+    },
+    {
+        "id": 176,
+        "question": "Token based auth is?",
+        "options": [
+            "Stateful",
+            "Stateless",
+            "Cookie based",
+            "Session based"
+        ],
+        "answer": "Stateless"
+    },
+    {
+        "id": 177,
+        "question": "Which header prevents CORS error?",
+        "options": [
+            "Access-Control-Allow-Origin",
+            "Authorization",
+            "Accept",
+            "Origin"
+        ],
+        "answer": "Access-Control-Allow-Origin"
+    },
+    {
+        "id": 178,
+        "question": "Which attack JWT prevents?",
+        "options": [
+            "CSRF",
+            "XSS",
+            "Replay",
+            "Man in middle"
+        ],
+        "answer": "Replay"
+    },
+    {
+        "id": 179,
+        "question": "Which API principle uses nouns in URL?",
+        "options": [
+            "SOAP",
+            "REST",
+            "GraphQL",
+            "RPC"
+        ],
+        "answer": "REST"
+    },
+    {
+        "id": 180,
+        "question": "Which method partially updates data?",
+        "options": [
+            "PUT",
+            "PATCH",
+            "POST",
+            "UPDATE"
+        ],
+        "answer": "PATCH"
+    },
+    {
+        "id": 181,
+        "question": "Which API tool documents endpoints?",
+        "options": [
+            "Swagger",
+            "Git",
+            "Postman",
+            "NPM"
+        ],
+        "answer": "Swagger"
+    },
+    {
+        "id": 182,
+        "question": "Which API uses schema-based queries?",
+        "options": [
+            "REST",
+            "SOAP",
+            "GraphQL",
+            "RPC"
+        ],
+        "answer": "GraphQL"
+    },
+    {
+        "id": 183,
+        "question": "Which git command views commit history?",
+        "options": [
+            "git log",
+            "git status",
+            "git show",
+            "git diff"
+        ],
+        "answer": "git log"
+    },
+    {
+        "id": 184,
+        "question": "Which git command stages files?",
+        "options": [
+            "git stage",
+            "git add",
+            "git commit",
+            "git save"
+        ],
+        "answer": "git add"
+    },
+    {
+        "id": 185,
+        "question": "Which git file ignores files?",
+        "options": [
+            ".gitignore",
+            ".ignore",
+            ".gitconfig",
+            ".npmignore"
+        ],
+        "answer": ".gitignore"
+    },
+    {
+        "id": 186,
+        "question": "Which tool checks API response?",
+        "options": [
+            "Browser",
+            "Postman",
+            "GitHub",
+            "VS Code"
+        ],
+        "answer": "Postman"
+    },
+    {
+        "id": 187,
+        "question": "CI/CD automates?",
+        "options": [
+            "Testing",
+            "Deployment",
+            "Build",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 188,
+        "question": "Which layer handles business logic?",
+        "options": [
+            "View",
+            "Controller",
+            "Model",
+            "Route"
+        ],
+        "answer": "Controller"
+    },
+    {
+        "id": 189,
+        "question": "Which caching improves performance?",
+        "options": [
+            "Browser cache",
+            "DB cache",
+            "Server cache",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 190,
+        "question": "Which design improves scalability?",
+        "options": [
+            "Monolith",
+            "Microservices",
+            "Single tier",
+            "Tight coupling"
+        ],
+        "answer": "Microservices"
+    },
+    {
+        "id": 191,
+        "question": "Which skill is essential for fullstack?",
+        "options": [
+            "Only frontend",
+            "Only backend",
+            "Only database",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 192,
+        "question": "Full stack developer responsibility includes?",
+        "options": [
+            "UI",
+            "API",
+            "Database",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 193,
+        "question": "Which CSS unit is relative to parent?",
+        "options": [
+            "px",
+            "em",
+            "rem",
+            "vh"
+        ],
+        "answer": "em"
+    },
+    {
+        "id": 194,
+        "question": "Which CSS property controls stacking order?",
+        "options": [
+            "position",
+            "z-index",
+            "display",
+            "float"
+        ],
+        "answer": "z-index"
+    },
+    {
+        "id": 195,
+        "question": "Which CSS layout is best for 2D layouts?",
+        "options": [
+            "Flexbox",
+            "Grid",
+            "Float",
+            "Inline"
+        ],
+        "answer": "Grid"
+    },
+    {
+        "id": 196,
+        "question": "JavaScript is ____ typed language?",
+        "options": [
+            "Strongly",
+            "Statically",
+            "Dynamically",
+            "Strictly"
+        ],
+        "answer": "Dynamically"
+    },
+    {
+        "id": 197,
+        "question": "Which method clones array?",
+        "options": [
+            "slice()",
+            "splice()",
+            "copy()",
+            "clone()"
+        ],
+        "answer": "slice()"
+    },
+    {
+        "id": 198,
+        "question": "Spread operator symbol is?",
+        "options": [
+            "...",
+            "**",
+            "=>",
+            "::"
+        ],
+        "answer": "..."
+    },
+    {
+        "id": 199,
+        "question": "Arrow functions differ by?",
+        "options": [
+            "this binding",
+            "syntax only",
+            "speed",
+            "scope"
+        ],
+        "answer": "this binding"
+    },
+    {
+        "id": 200,
+        "question": "Event bubbling moves?",
+        "options": [
+            "Child to parent",
+            "Parent to child",
+            "Random",
+            "Parallel"
+        ],
+        "answer": "Child to parent"
+    },
+    {
+        "id": 201,
+        "question": "React StrictMode helps in?",
+        "options": [
+            "Production",
+            "Debugging",
+            "Styling",
+            "Routing"
+        ],
+        "answer": "Debugging"
+    },
+    {
+        "id": 202,
+        "question": "Which hook prevents re-render?",
+        "options": [
+            "useState",
+            "useRef",
+            "useEffect",
+            "useReducer"
+        ],
+        "answer": "useRef"
+    },
+    {
+        "id": 203,
+        "question": "Which React feature splits code?",
+        "options": [
+            "Memo",
+            "Lazy",
+            "Fragment",
+            "Context"
+        ],
+        "answer": "Lazy"
+    },
+    {
+        "id": 204,
+        "question": "React Router handles?",
+        "options": [
+            "Auth",
+            "Routing",
+            "State",
+            "UI"
+        ],
+        "answer": "Routing"
+    },
+    {
+        "id": 205,
+        "question": "SPA routing uses?",
+        "options": [
+            "Server routes",
+            "Client routes",
+            "DB routes",
+            "API routes"
+        ],
+        "answer": "Client routes"
+    },
+    {
+        "id": 206,
+        "question": "Which Express middleware enables CORS?",
+        "options": [
+            "cors()",
+            "allow()",
+            "secure()",
+            "origin()"
+        ],
+        "answer": "cors()"
+    },
+    {
+        "id": 207,
+        "question": "Which Node feature handles async?",
+        "options": [
+            "Threads",
+            "Event Loop",
+            "Processes",
+            "Workers"
+        ],
+        "answer": "Event Loop"
+    },
+    {
+        "id": 208,
+        "question": "Which HTTP module creates server?",
+        "options": [
+            "net",
+            "http",
+            "server",
+            "express"
+        ],
+        "answer": "http"
+    },
+    {
+        "id": 209,
+        "question": "Which Express method handles params?",
+        "options": [
+            "req.params",
+            "req.query",
+            "req.body",
+            "req.path"
+        ],
+        "answer": "req.params"
+    },
+    {
+        "id": 210,
+        "question": "Which status code means Accepted?",
+        "options": [
+            "200",
+            "201",
+            "202",
+            "204"
+        ],
+        "answer": "202"
+    },
+    {
+        "id": 211,
+        "question": "Laravel service container is used for?",
+        "options": [
+            "Routing",
+            "Dependency injection",
+            "Auth",
+            "DB"
+        ],
+        "answer": "Dependency injection"
+    },
+    {
+        "id": 212,
+        "question": "Which Laravel feature listens events?",
+        "options": [
+            "Listeners",
+            "Jobs",
+            "Tasks",
+            "Queues"
+        ],
+        "answer": "Listeners"
+    },
+    {
+        "id": 213,
+        "question": "Which artisan command clears cache?",
+        "options": [
+            "cache:clear",
+            "config:clear",
+            "route:clear",
+            "view:clear"
+        ],
+        "answer": "cache:clear"
+    },
+    {
+        "id": 214,
+        "question": "Which Blade directive extends layout?",
+        "options": [
+            "@include",
+            "@yield",
+            "@extends",
+            "@section"
+        ],
+        "answer": "@extends"
+    },
+    {
+        "id": 215,
+        "question": "Which Laravel feature handles files?",
+        "options": [
+            "Storage",
+            "Upload",
+            "Media",
+            "Files"
+        ],
+        "answer": "Storage"
+    },
+    {
+        "id": 216,
+        "question": "Which join returns all left rows?",
+        "options": [
+            "INNER",
+            "LEFT",
+            "RIGHT",
+            "CROSS"
+        ],
+        "answer": "LEFT"
+    },
+    {
+        "id": 217,
+        "question": "MongoDB aggregation is used for?",
+        "options": [
+            "Filtering",
+            "Processing data",
+            "Indexing",
+            "Backup"
+        ],
+        "answer": "Processing data"
+    },
+    {
+        "id": 218,
+        "question": "Which index improves text search?",
+        "options": [
+            "Normal",
+            "Unique",
+            "Text",
+            "Hash"
+        ],
+        "answer": "Text"
+    },
+    {
+        "id": 219,
+        "question": "ACID relates to?",
+        "options": [
+            "Security",
+            "Transactions",
+            "Indexes",
+            "Caching"
+        ],
+        "answer": "Transactions"
+    },
+    {
+        "id": 220,
+        "question": "Which auth uses OAuth?",
+        "options": [
+            "JWT",
+            "Social login",
+            "Session",
+            "Basic"
+        ],
+        "answer": "Social login"
+    },
+    {
+        "id": 221,
+        "question": "CSRF attack targets?",
+        "options": [
+            "JWT",
+            "Cookies",
+            "Headers",
+            "Tokens"
+        ],
+        "answer": "Cookies"
+    },
+    {
+        "id": 222,
+        "question": "XSS relates to?",
+        "options": [
+            "Database",
+            "Frontend",
+            "Auth",
+            "API"
+        ],
+        "answer": "Frontend"
+    },
+    {
+        "id": 223,
+        "question": "HTTPS provides?",
+        "options": [
+            "Speed",
+            "Encryption",
+            "Caching",
+            "Routing"
+        ],
+        "answer": "Encryption"
+    },
+    {
+        "id": 224,
+        "question": "REST best practice uses nouns for?",
+        "options": [
+            "Actions",
+            "Resources",
+            "Methods",
+            "Headers"
+        ],
+        "answer": "Resources"
+    },
+    {
+        "id": 225,
+        "question": "HATEOAS is part of?",
+        "options": [
+            "REST",
+            "SOAP",
+            "GraphQL",
+            "RPC"
+        ],
+        "answer": "REST"
+    },
+    {
+        "id": 226,
+        "question": "API versioning is done via?",
+        "options": [
+            "URL",
+            "Header",
+            "Query",
+            "All"
+        ],
+        "answer": "All"
+    },
+    {
+        "id": 227,
+        "question": "Caching API responses improves?",
+        "options": [
+            "Security",
+            "Performance",
+            "Auth",
+            "DB size"
+        ],
+        "answer": "Performance"
+    },
+    {
+        "id": 228,
+        "question": "Stateless APIs scale better because?",
+        "options": [
+            "No session",
+            "Fast DB",
+            "More memory",
+            "Cookies"
+        ],
+        "answer": "No session"
+    },
+    {
+        "id": 229,
+        "question": "Which git command reverts commit?",
+        "options": [
+            "git reset",
+            "git revert",
+            "git undo",
+            "git back"
+        ],
+        "answer": "git revert"
+    },
+    {
+        "id": 230,
+        "question": "Rebase is used to?",
+        "options": [
+            "Delete commits",
+            "Rewrite history",
+            "Merge safely",
+            "Deploy"
+        ],
+        "answer": "Rewrite history"
+    },
+    {
+        "id": 231,
+        "question": "CI/CD stands for?",
+        "options": [
+            "Code Integration",
+            "Continuous Integration / Delivery",
+            "Compile Install",
+            "Control Deploy"
+        ],
+        "answer": "Continuous Integration / Delivery"
+    },
+    {
+        "id": 232,
+        "question": "Postman collections are used to?",
+        "options": [
+            "Group APIs",
+            "Deploy APIs",
+            "Secure APIs",
+            "Build APIs"
+        ],
+        "answer": "Group APIs"
+    },
+    {
+        "id": 233,
+        "question": "Environment variables avoid?",
+        "options": [
+            "Security",
+            "Hardcoding secrets",
+            "Errors",
+            "Routing"
+        ],
+        "answer": "Hardcoding secrets"
+    },
+    {
+        "id": 234,
+        "question": "Scalable apps require?",
+        "options": [
+            "Tight coupling",
+            "Loose coupling",
+            "Hardcoding",
+            "Global state"
+        ],
+        "answer": "Loose coupling"
+    },
+    {
+        "id": 235,
+        "question": "DRY principle means?",
+        "options": [
+            "Do Repeat Yourself",
+            "Don't Repeat Yourself",
+            "Debug Regularly Yourself",
+            "Deploy Rapidly Yourself"
+        ],
+        "answer": "Don't Repeat Yourself"
+    },
+    {
+        "id": 236,
+        "question": "SOLID principles improve?",
+        "options": [
+            "UI",
+            "Maintainability",
+            "Speed",
+            "Auth"
+        ],
+        "answer": "Maintainability"
+    },
+    {
+        "id": 237,
+        "question": "Logging helps in?",
+        "options": [
+            "Styling",
+            "Debugging",
+            "Routing",
+            "Caching"
+        ],
+        "answer": "Debugging"
+    },
+    {
+        "id": 238,
+        "question": "Production-ready app should have?",
+        "options": [
+            "Console logs",
+            "Error handling",
+            "Hardcoded keys",
+            "No validation"
+        ],
+        "answer": "Error handling"
+    }
+]

@@ -1,0 +1,1032 @@
+[
+  {
+    "id": 1,
+    "question": "Which Laravel artisan command creates a new controller?",
+    "options": [
+      "php artisan make:controller",
+      "php artisan create:controller",
+      "php artisan generate:controller",
+      "php artisan new:controller"
+    ],
+    "answer": "php artisan make:controller"
+  },
+  {
+    "id": 2,
+    "question": "What is the default port for a React development server?",
+    "options": ["3000", "8080", "8000", "5000"],
+    "answer": "3000"
+  },
+  {
+    "id": 3,
+    "question": "Which HTML5 element is used for navigation links?",
+    "options": ["<nav>", "<section>", "<header>", "<aside>"],
+    "answer": "<nav>"
+  },
+  {
+    "id": 4,
+    "question": "Which CSS property controls flexbox direction?",
+    "options": ["flex-direction", "flex-axis", "flex-orient", "flex-flow"],
+    "answer": "flex-direction"
+  },
+  {
+    "id": 5,
+    "question": "How do you create a MongoDB database?",
+    "options": [
+      "use dbname",
+      "create database dbname",
+      "new database dbname",
+      "start dbname"
+    ],
+    "answer": "use dbname"
+  },
+  {
+    "id": 6,
+    "question": "Which Node.js module creates a web server?",
+    "options": ["http", "fs", "url", "net"],
+    "answer": "http"
+  },
+  {
+    "id": 7,
+    "question": "Which Laravel file holds environment variables?",
+    "options": [".env", "config.php", ".settings", "env.php"],
+    "answer": ".env"
+  },
+  {
+    "id": 8,
+    "question": "Which method sends a JWT in Laravel Sanctum?",
+    "options": ["createToken", "generateToken", "makeToken", "issueToken"],
+    "answer": "createToken"
+  },
+  {
+    "id": 9,
+    "question": "Which HTTP method updates a resource in REST?",
+    "options": ["PUT", "PATCH", "POST", "Both PUT & PATCH"],
+    "answer": "Both PUT & PATCH"
+  },
+  {
+    "id": 10,
+    "question": "Which Git command stages all changes?",
+    "options": ["git add .", "git stage *", "git commit -a", "git push"],
+    "answer": "git add ."
+  },
+  {
+    "id": 11,
+    "question": "Which Tailwind class adds margin top 4?",
+    "options": ["mt-4", "margin-top-4", "m-top-4", "top-4"],
+    "answer": "mt-4"
+  },
+  {
+    "id": 12,
+    "question": "Which Blade directive starts a loop?",
+    "options": ["@foreach", "@for", "@loop", "@repeat"],
+    "answer": "@foreach"
+  },
+  {
+    "id": 13,
+    "question": "Which Express method defines a route?",
+    "options": ["app.get()", "app.route()", "app.create()", "app.define()"],
+    "answer": "app.get()"
+  },
+  {
+    "id": 14,
+    "question": "Which MySQL clause sorts results?",
+    "options": ["ORDER BY", "SORT BY", "GROUP BY", "ARRANGE BY"],
+    "answer": "ORDER BY"
+  },
+  {
+    "id": 15,
+    "question": "Which React hook manages state?",
+    "options": ["useState", "useEffect", "useContext", "useReducer"],
+    "answer": "useState"
+  },
+  {
+    "id": 16,
+    "question": "Which HTML tag links JavaScript?",
+    "options": ["<script>", "<js>", "<javascript>", "<link>"],
+    "answer": "<script>"
+  },
+  {
+    "id": 17,
+    "question": "Which CSS unit is relative to viewport width?",
+    "options": ["vw", "%", "em", "rem"],
+    "answer": "vw"
+  },
+  {
+    "id": 18,
+    "question": "Which MongoDB operator matches equality?",
+    "options": ["$eq", "$match", "$is", "$same"],
+    "answer": "$eq"
+  },
+  {
+    "id": 19,
+    "question": "Which Laravel file defines routes?",
+    "options": [
+      "routes/web.php",
+      "routes.php",
+      "path/routes.php",
+      "config/routes.php"
+    ],
+    "answer": "routes/web.php"
+  },
+  {
+    "id": 20,
+    "question": "Which Passport command installs keys?",
+    "options": [
+      "passport:install",
+      "passport:keys",
+      "passport:setup",
+      "passport:generate"
+    ],
+    "answer": "passport:install"
+  },
+  {
+    "id": 21,
+    "question": "Which REST status means created?",
+    "options": ["201", "200", "204", "202"],
+    "answer": "201"
+  },
+  {
+    "id": 22,
+    "question": "Which GitHub feature reviews code?",
+    "options": ["Pull Request", "Issue", "Fork", "Gist"],
+    "answer": "Pull Request"
+  },
+  {
+    "id": 23,
+    "question": "Which jQuery method selects by ID?",
+    "options": ["$('#id')", "$('.id')", "$('id')", "$('*id')"],
+    "answer": "$('#id')"
+  },
+  {
+    "id": 24,
+    "question": "Which EJS tag outputs escaped value?",
+    "options": ["<%= %>", "<%- %>", "<% %>", "<%# %>"],
+    "answer": "<%= %>"
+  },
+  {
+    "id": 25,
+    "question": "Which Bootstrap class centers text?",
+    "options": ["text-center", "center-text", "text-middle", "align-center"],
+    "answer": "text-center"
+  },
+  {
+    "id": 26,
+    "question": "Which Node.js package manager is default?",
+    "options": ["npm", "yarn", "pnpm", "bun"],
+    "answer": "npm"
+  },
+  {
+    "id": 27,
+    "question": "Which Laravel folder holds views?",
+    "options": ["resources/views", "views", "app/Views", "storage/views"],
+    "answer": "resources/views"
+  },
+  {
+    "id": 28,
+    "question": "Which JWT segment is the payload?",
+    "options": ["second", "first", "third", "fourth"],
+    "answer": "second"
+  },
+  {
+    "id": 29,
+    "question": "Which HTTP method deletes in REST?",
+    "options": ["DELETE", "REMOVE", "DESTROY", "DROP"],
+    "answer": "DELETE"
+  },
+  {
+    "id": 30,
+    "question": "Which Postman tab shows response body?",
+    "options": ["Body", "Headers", "Params", "Tests"],
+    "answer": "Body"
+  },
+  {
+    "id": 31,
+    "question": "Which React hook runs after render?",
+    "options": ["useEffect", "useState", "useLayoutEffect", "useMemo"],
+    "answer": "useEffect"
+  },
+  {
+    "id": 32,
+    "question": "Which HTML attribute is boolean?",
+    "options": ["disabled", "href", "src", "alt"],
+    "answer": "disabled"
+  },
+  {
+    "id": 33,
+    "question": "Which CSS property creates grid?",
+    "options": ["display: grid", "grid", "display: flex", "flex-grid"],
+    "answer": "display: grid"
+  },
+  {
+    "id": 34,
+    "question": "Which MongoDB method inserts one doc?",
+    "options": ["insertOne", "insert", "saveOne", "createOne"],
+    "answer": "insertOne"
+  },
+  {
+    "id": 35,
+    "question": "Which Express middleware parses JSON?",
+    "options": [
+      "express.json()",
+      "bodyParser.json()",
+      "json()",
+      "parser.json()"
+    ],
+    "answer": "express.json()"
+  },
+  {
+    "id": 36,
+    "question": "Which MySQL statement removes rows?",
+    "options": ["DELETE", "REMOVE", "DROP", "TRUNCATE"],
+    "answer": "DELETE"
+  },
+  {
+    "id": 37,
+    "question": "Which Laravel command starts server?",
+    "options": [
+      "php artisan serve",
+      "php artisan start",
+      "php artisan run",
+      "php server"
+    ],
+    "answer": "php artisan serve"
+  },
+  {
+    "id": 38,
+    "question": "Which Sanctum guard is SPA default?",
+    "options": ["sanctum", "web", "api", "jwt"],
+    "answer": "sanctum"
+  },
+  {
+    "id": 39,
+    "question": "Which REST status means not found?",
+    "options": ["404", "400", "204", "403"],
+    "answer": "404"
+  },
+  {
+    "id": 40,
+    "question": "Which Git command shows log?",
+    "options": ["git log", "git history", "git show", "git status"],
+    "answer": "git log"
+  },
+  {
+    "id": 41,
+    "question": "Which Tailwind class adds padding x 6?",
+    "options": ["px-6", "p-x-6", "padding-x-6", "x-p-6"],
+    "answer": "px-6"
+  },
+  {
+    "id": 42,
+    "question": "Which Blade directive prints escaped data?",
+    "options": ["{{ }}", "{!! !!}", "{-- --}", "[[ ]]"],
+    "answer": "{{ }}"
+  },
+  {
+    "id": 43,
+    "question": "Which jQuery method hides element?",
+    "options": ["hide()", "fadeOut()", "display(none)", "visibility(hidden)"],
+    "answer": "hide()"
+  },
+  {
+    "id": 44,
+    "question": "Which EJS tag runs JS without output?",
+    "options": ["<% %>", "<%= %>", "<%- %>", "<%# %>"],
+    "answer": "<% %>"
+  },
+  {
+    "id": 45,
+    "question": "Which Bootstrap class makes button large?",
+    "options": ["btn-lg", "btn-large", "btn-xl", "size-lg"],
+    "answer": "btn-lg"
+  },
+  {
+    "id": 46,
+    "question": "Which Node object holds request data?",
+    "options": ["req", "request", "res", "response"],
+    "answer": "req"
+  },
+  {
+    "id": 47,
+    "question": "Which Laravel folder holds controllers?",
+    "options": [
+      "app/Http/Controllers",
+      "Controllers",
+      "app/Controllers",
+      "Http/Controllers"
+    ],
+    "answer": "app/Http/Controllers"
+  },
+  {
+    "id": 48,
+    "question": "Which JWT signing algorithm is symmetric?",
+    "options": ["HS256", "RS256", "ES256", "PS256"],
+    "answer": "HS256"
+  },
+  {
+    "id": 49,
+    "question": "Which REST status means unauthorized?",
+    "options": ["401", "403", "400", "404"],
+    "answer": "401"
+  },
+  {
+    "id": 50,
+    "question": "Which Postman feature tests APIs?",
+    "options": ["Tests tab", "Runner", "Monitor", "Mock"],
+    "answer": "Tests tab"
+  },
+  {
+    "id": 51,
+    "question": "Which React hook memoizes value?",
+    "options": ["useMemo", "useCallback", "useRef", "useState"],
+    "answer": "useMemo"
+  },
+  {
+    "id": 52,
+    "question": "Which HTML tag embeds video?",
+    "options": ["<video>", "<media>", "<embed>", "<source>"],
+    "answer": "<video>"
+  },
+  {
+    "id": 53,
+    "question": "Which CSS property sets z-index?",
+    "options": ["z-index", "stack-order", "layer", "index-z"],
+    "answer": "z-index"
+  },
+  {
+    "id": 54,
+    "question": "Which MongoDB method updates many?",
+    "options": ["updateMany", "update", "modifyMany", "bulkUpdate"],
+    "answer": "updateMany"
+  },
+  {
+    "id": 55,
+    "question": "Which Express method handles 404?",
+    "options": [
+      "app.use('*', handler)",
+      "app.get('*')",
+      "app.catch()",
+      "app.error()"
+    ],
+    "answer": "app.use('*', handler)"
+  },
+  {
+    "id": 56,
+    "question": "Which MySQL joins tables?",
+    "options": ["JOIN", "UNION", "MERGE", "CONNECT"],
+    "answer": "JOIN"
+  },
+  {
+    "id": 57,
+    "question": "Which Laravel file holds DB config?",
+    "options": [
+      "config/database.php",
+      ".env",
+      "database/config.php",
+      "config/db.php"
+    ],
+    "answer": "config/database.php"
+  },
+  {
+    "id": 58,
+    "question": "Which Passport grant is password?",
+    "options": [
+      "password",
+      "authorization_code",
+      "implicit",
+      "client_credentials"
+    ],
+    "answer": "password"
+  },
+  {
+    "id": 59,
+    "question": "Which REST status means conflict?",
+    "options": ["409", "410", "408", "412"],
+    "answer": "409"
+  },
+  {
+    "id": 60,
+    "question": "Which Git command undoes last commit?",
+    "options": ["git reset HEAD~1", "git revert", "git undo", "git back"],
+    "answer": "git reset HEAD~1"
+  },
+  {
+    "id": 61,
+    "question": "Which Tailwind class rounds corners?",
+    "options": ["rounded", "corner", "radius", "round"],
+    "answer": "rounded"
+  },
+  {
+    "id": 62,
+    "question": "Which Blade directive checks auth?",
+    "options": ["@auth", "@if(auth)", "@loggedIn", "@check"],
+    "answer": "@auth"
+  },
+  {
+    "id": 63,
+    "question": "Which jQuery method adds class?",
+    "options": ["addClass()", "appendClass()", "setClass()", "class()"],
+    "answer": "addClass()"
+  },
+  {
+    "id": 64,
+    "question": "Which EJS tag outputs raw HTML?",
+    "options": ["<%- %>", "<%= %>", "<% %>", "<%# %>"],
+    "answer": "<%- %>"
+  },
+  {
+    "id": 65,
+    "question": "Which Bootstrap class creates modal?",
+    "options": ["modal", "popup", "dialog", "overlay"],
+    "answer": "modal"
+  },
+  {
+    "id": 66,
+    "question": "Which Node module reads files?",
+    "options": ["fs", "file", "read", "io"],
+    "answer": "fs"
+  },
+  {
+    "id": 67,
+    "question": "Which Laravel folder holds models?",
+    "options": ["app/Models", "Models", "app/models", "Models/App"],
+    "answer": "app/Models"
+  },
+  {
+    "id": 68,
+    "question": "Which JWT claim is expiration?",
+    "options": ["exp", "iat", "nbf", "jti"],
+    "answer": "exp"
+  },
+  {
+    "id": 69,
+    "question": "Which REST status means server error?",
+    "options": ["500", "400", "503", "502"],
+    "answer": "500"
+  },
+  {
+    "id": 70,
+    "question": "Which Postman section adds headers?",
+    "options": ["Headers", "Params", "Auth", "Body"],
+    "answer": "Headers"
+  },
+  {
+    "id": 71,
+    "question": "Which React hook handles context?",
+    "options": ["useContext", "useState", "useEffect", "useReducer"],
+    "answer": "useContext"
+  },
+  {
+    "id": 72,
+    "question": "Which HTML attribute sets image alt?",
+    "options": ["alt", "title", "caption", "text"],
+    "answer": "alt"
+  },
+  {
+    "id": 73,
+    "question": "Which CSS property sets flex wrap?",
+    "options": ["flex-wrap", "wrap", "flex-flow", "flex-break"],
+    "answer": "flex-wrap"
+  },
+  {
+    "id": 74,
+    "question": "Which MongoDB method deletes one?",
+    "options": ["deleteOne", "removeOne", "dropOne", "eraseOne"],
+    "answer": "deleteOne"
+  },
+  {
+    "id": 75,
+    "question": "Which Express method serves static files?",
+    "options": ["express.static()", "app.static()", "serve()", "static()"],
+    "answer": "express.static()"
+  },
+  {
+    "id": 76,
+    "question": "Which MySQL clause groups rows?",
+    "options": ["GROUP BY", "CLUSTER BY", "COLLECT BY", "BATCH BY"],
+    "answer": "GROUP BY"
+  },
+  {
+    "id": 77,
+    "question": "Which Laravel command clears cache?",
+    "options": [
+      "php artisan cache:clear",
+      "php artisan clear",
+      "php artisan flush",
+      "php artisan refresh"
+    ],
+    "answer": "php artisan cache:clear"
+  },
+  {
+    "id": 78,
+    "question": "Which Sanctum middleware guards API?",
+    "options": ["auth:sanctum", "sanctum", "api", "auth:api"],
+    "answer": "auth:sanctum"
+  },
+  {
+    "id": 79,
+    "question": "Which REST status means no content?",
+    "options": ["204", "200", "202", "205"],
+    "answer": "204"
+  },
+  {
+    "id": 80,
+    "question": "Which Git command creates branch?",
+    "options": [
+      "git branch name",
+      "git create branch",
+      "git new branch",
+      "git split"
+    ],
+    "answer": "git branch name"
+  },
+  {
+    "id": 81,
+    "question": "Which Tailwind class hides element?",
+    "options": ["hidden", "d-none", "invisible", "hide"],
+    "answer": "hidden"
+  },
+  {
+    "id": 82,
+    "question": "Which Blade directive includes view?",
+    "options": ["@include", "@partial", "@import", "@view"],
+    "answer": "@include"
+  },
+  {
+    "id": 83,
+    "question": "Which jQuery method sends AJAX?",
+    "options": ["$.ajax()", "$.get()", "$.post()", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": 84,
+    "question": "Which EJS tag comments out?",
+    "options": ["<%# %>", "<%-- --%>", "<!-- -->", "<% /* */ %>"],
+    "answer": "<%# %>"
+  },
+  {
+    "id": 85,
+    "question": "Which Bootstrap class aligns text right?",
+    "options": ["text-end", "text-right", "float-right", "align-right"],
+    "answer": "text-end"
+  },
+  {
+    "id": 86,
+    "question": "Which Node global is like window?",
+    "options": ["global", "process", "Buffer", "__dirname"],
+    "answer": "global"
+  },
+  {
+    "id": 87,
+    "question": "Which Laravel folder holds migrations?",
+    "options": [
+      "database/migrations",
+      "migrations",
+      "db/migrations",
+      "storage/migrations"
+    ],
+    "answer": "database/migrations"
+  },
+  {
+    "id": 88,
+    "question": "Which Passport guard is API default?",
+    "options": ["api", "web", "sanctum", "jwt"],
+    "answer": "api"
+  },
+  {
+    "id": 89,
+    "question": "Which REST status means bad request?",
+    "options": ["400", "401", "403", "422"],
+    "answer": "400"
+  },
+  {
+    "id": 90,
+    "question": "Which Git command switches branch?",
+    "options": ["git switch", "git checkout", "git move", "git branch switch"],
+    "answer": "git switch"
+  },
+  {
+    "id": 91,
+    "question": "Which Tailwind class adds shadow?",
+    "options": ["shadow", "box-shadow", "shadow-md", "Both shadow & shadow-md"],
+    "answer": "Both shadow & shadow-md"
+  },
+  {
+    "id": 92,
+    "question": "Which Blade directive yields section?",
+    "options": ["@yield", "@section", "@show", "@content"],
+    "answer": "@yield"
+  },
+  {
+    "id": 93,
+    "question": "Which jQuery method removes element?",
+    "options": ["remove()", "delete()", "erase()", "detach()"],
+    "answer": "remove()"
+  },
+  {
+    "id": 94,
+    "question": "Which EJS option compiles on fly?",
+    "options": [
+      "{cache: false}",
+      "{compile: true}",
+      "{live: true}",
+      "{hot: true}"
+    ],
+    "answer": "{cache: false}"
+  },
+  {
+    "id": 95,
+    "question": "Which Bootstrap class makes row?",
+    "options": ["row", "container", "col", "grid-row"],
+    "answer": "row"
+  },
+  {
+    "id": 96,
+    "question": "Which Node module resolves paths?",
+    "options": ["path", "fs", "url", "resolve"],
+    "answer": "path"
+  },
+  {
+    "id": 97,
+    "question": "Which Laravel folder holds seeders?",
+    "options": ["database/seeders", "seeders", "database/seeds", "seeds"],
+    "answer": "database/seeders"
+  },
+  {
+    "id": 98,
+    "question": "Which JWT header field is algorithm?",
+    "options": ["alg", "typ", "kid", "cty"],
+    "answer": "alg"
+  },
+  {
+    "id": 99,
+    "question": "Which REST status means accepted?",
+    "options": ["202", "200", "201", "204"],
+    "answer": "202"
+  },
+  {
+    "id": 100,
+    "question": "Which Postman feature mocks server?",
+    "options": ["Mock Server", "Monitor", "Runner", "Collection"],
+    "answer": "Mock Server"
+  },
+  {
+    "id": 101,
+    "question": "Which React hook runs after DOM paint?",
+    "options": [
+      "useLayoutEffect",
+      "useEffect",
+      "useMemo",
+      "useInsertionEffect"
+    ],
+    "answer": "useLayoutEffect"
+  },
+  {
+    "id": 102,
+    "question": "Which HTML tag creates dropdown?",
+    "options": ["<select>", "<dropdown>", "<list>", "<menu>"],
+    "answer": "<select>"
+  },
+  {
+    "id": 103,
+    "question": "Which CSS property sets animation name?",
+    "options": ["animation-name", "animate", "keyframe", "animation"],
+    "answer": "animation-name"
+  },
+  {
+    "id": 104,
+    "question": "Which MongoDB method counts docs?",
+    "options": ["countDocuments", "count", "length", "size"],
+    "answer": "countDocuments"
+  },
+  {
+    "id": 105,
+    "question": "Which Express method creates router?",
+    "options": [
+      "express.Router()",
+      "express.Route()",
+      "Router()",
+      "createRouter()"
+    ],
+    "answer": "express.Router()"
+  },
+  {
+    "id": 106,
+    "question": "Which MySQL keyword is primary key?",
+    "options": ["PRIMARY KEY", "KEY", "UNIQUE KEY", "MAIN KEY"],
+    "answer": "PRIMARY KEY"
+  },
+  {
+    "id": 107,
+    "question": "Which Laravel command rolls back migration?",
+    "options": [
+      "php artisan migrate:rollback",
+      "php artisan rollback",
+      "php artisan migrate:back",
+      "php artisan back"
+    ],
+    "answer": "php artisan migrate:rollback"
+  },
+  {
+    "id": 108,
+    "question": "Which Sanctum token ability revokes?",
+    "options": ["$token->delete()", "revoke()", "remove()", "destroy()"],
+    "answer": "$token->delete()"
+  },
+  {
+    "id": 109,
+    "question": "Which REST status means gone?",
+    "options": ["410", "404", "400", "204"],
+    "answer": "410"
+  },
+  {
+    "id": 110,
+    "question": "Which Git command merges branch?",
+    "options": ["git merge", "git join", "git combine", "git pull"],
+    "answer": "git merge"
+  },
+  {
+    "id": 111,
+    "question": "Which Tailwind class makes flex container?",
+    "options": ["flex", "d-flex", "display-flex", "flexbox"],
+    "answer": "flex"
+  },
+  {
+    "id": 112,
+    "question": "Which Blade directive shows error?",
+    "options": ["@error", "@if(error)", "@showerror", "@catch"],
+    "answer": "@error"
+  },
+  {
+    "id": 113,
+    "question": "Which jQuery method gets text?",
+    "options": ["text()", "html()", "val()", "innerText()"],
+    "answer": "text()"
+  },
+  {
+    "id": 114,
+    "question": "Which EJS option sets views folder?",
+    "options": ["views", "view engine", "view path", "templates"],
+    "answer": "views"
+  },
+  {
+    "id": 115,
+    "question": "Which Bootstrap class makes column?",
+    "options": ["col", "column", "grid-col", "span"],
+    "answer": "col"
+  },
+  {
+    "id": 116,
+    "question": "Which Node object holds env variables?",
+    "options": ["process.env", "global.env", "env", "Node.env"],
+    "answer": "process.env"
+  },
+  {
+    "id": 117,
+    "question": "Which Laravel folder holds middleware?",
+    "options": [
+      "app/Http/Middleware",
+      "Middleware",
+      "app/Middleware",
+      "Http/Middleware"
+    ],
+    "answer": "app/Http/Middleware"
+  },
+  {
+    "id": 118,
+    "question": "Which JWT claim is issuer?",
+    "options": ["iss", "sub", "aud", "jti"],
+    "answer": "iss"
+  },
+  {
+    "id": 119,
+    "question": "Which REST status means precondition failed?",
+    "options": ["412", "413", "414", "415"],
+    "answer": "412"
+  },
+  {
+    "id": 120,
+    "question": "Which Postman feature runs requests in loop?",
+    "options": ["Collection Runner", "Monitor", "Mock", "Bulk"],
+    "answer": "Collection Runner"
+  },
+  {
+    "id": 121,
+    "question": "Which React hook prevents re-render?",
+    "options": ["React.memo", "useMemo", "useCallback", "All can help"],
+    "answer": "All can help"
+  },
+  {
+    "id": 122,
+    "question": "Which HTML attribute sets checkbox checked?",
+    "options": ["checked", "selected", "active", "enabled"],
+    "answer": "checked"
+  },
+  {
+    "id": 123,
+    "question": "Which CSS unit is root relative?",
+    "options": ["rem", "em", "vw", "%"],
+    "answer": "rem"
+  },
+  {
+    "id": 124,
+    "question": "Which MongoDB method limits results?",
+    "options": ["limit()", "take()", "max()", "top()"],
+    "answer": "limit()"
+  },
+  {
+    "id": 125,
+    "question": "Which Express method handles errors?",
+    "options": [
+      "app.use(err,req,res,next)",
+      "app.error()",
+      "app.catch()",
+      "app.fail()"
+    ],
+    "answer": "app.use(err,req,res,next)"
+  },
+  {
+    "id": 126,
+    "question": "Which MySQL statement alters table?",
+    "options": ["ALTER TABLE", "MODIFY TABLE", "CHANGE TABLE", "UPDATE TABLE"],
+    "answer": "ALTER TABLE"
+  },
+  {
+    "id": 127,
+    "question": "Which Laravel command creates model?",
+    "options": [
+      "php artisan make:model",
+      "php artisan create:model",
+      "php artisan generate:model",
+      "php artisan new:model"
+    ],
+    "answer": "php artisan make:model"
+  },
+  {
+    "id": 128,
+    "question": "Which Passport grant is client credentials?",
+    "options": [
+      "client_credentials",
+      "password",
+      "authorization_code",
+      "implicit"
+    ],
+    "answer": "client_credentials"
+  },
+  {
+    "id": 129,
+    "question": "Which REST status means unsupported media?",
+    "options": ["415", "414", "413", "412"],
+    "answer": "415"
+  },
+  {
+    "id": 130,
+    "question": "Which Git command stashes changes?",
+    "options": ["git stash", "git save", "git store", "git temp"],
+    "answer": "git stash"
+  },
+  {
+    "id": 131,
+    "question": "Which Tailwind class adds border?",
+    "options": ["border", "line", "outline", "stroke"],
+    "answer": "border"
+  },
+  {
+    "id": 132,
+    "question": "Which Blade directive sets CSRF?",
+    "options": ["@csrf", "@token", "@secure", "@protect"],
+    "answer": "@csrf"
+  },
+  {
+    "id": 133,
+    "question": "Which jQuery method gets attribute?",
+    "options": ["attr()", "getAttr()", "attribute()", "prop()"],
+    "answer": "attr()"
+  },
+  {
+    "id": 134,
+    "question": "Which EJS option sets cache?",
+    "options": ["cache", "memory", "store", "lru"],
+    "answer": "cache"
+  },
+  {
+    "id": 135,
+    "question": "Which Bootstrap class makes button block?",
+    "options": ["d-grid", "btn-block", "w-100", "Both d-grid & w-100"],
+    "answer": "Both d-grid & w-100"
+  },
+  {
+    "id": 136,
+    "question": "Which Node module creates crypto hash?",
+    "options": ["crypto", "hash", "bcrypt", "md5"],
+    "answer": "crypto"
+  },
+  {
+    "id": 137,
+    "question": "Which Laravel folder holds providers?",
+    "options": ["app/Providers", "Providers", "app/Services", "Services"],
+    "answer": "app/Providers"
+  },
+  {
+    "id": 138,
+    "question": "Which JWT claim is subject?",
+    "options": ["sub", "iss", "aud", "jti"],
+    "answer": "sub"
+  },
+  {
+    "id": 139,
+    "question": "Which REST status means length required?",
+    "options": ["411", "410", "409", "408"],
+    "answer": "411"
+  },
+  {
+    "id": 140,
+    "question": "Which Postman feature documents API?",
+    "options": ["Documentation", "Wiki", "Notes", "Description"],
+    "answer": "Documentation"
+  },
+  {
+    "id": 141,
+    "question": "Which React hook gives ref to element?",
+    "options": ["useRef", "createRef", "useElement", "ref()"],
+    "answer": "useRef"
+  },
+  {
+    "id": 142,
+    "question": "Which HTML tag defines template?",
+    "options": ["<template>", "<script type='template'>", "<tpl>", "<render>"],
+    "answer": "<template>"
+  },
+  {
+    "id": 143,
+    "question": "Which CSS property sets transition?",
+    "options": ["transition", "animate", "transform", "effect"],
+    "answer": "transition"
+  },
+  {
+    "id": 144,
+    "question": "Which MongoDB method skips docs?",
+    "options": ["skip()", "offset()", "start()", "ignore()"],
+    "answer": "skip()"
+  },
+  {
+    "id": 145,
+    "question": "Which Express option enables CORS?",
+    "options": [
+      "cors()",
+      "app.cors()",
+      "app.use(cors())",
+      "Both cors() & app.use(cors())"
+    ],
+    "answer": "Both cors() & app.use(cors())"
+  },
+  {
+    "id": 146,
+    "question": "Which MySQL statement renames table?",
+    "options": [
+      "RENAME TABLE",
+      "CHANGE TABLE",
+      "ALTER TABLE RENAME",
+      "UPDATE TABLE NAME"
+    ],
+    "answer": "RENAME TABLE"
+  },
+  {
+    "id": 147,
+    "question": "Which Laravel command creates seeder?",
+    "options": [
+      "php artisan make:seeder",
+      "php artisan create:seeder",
+      "php artisan generate:seeder",
+      "php artisan seed:make"
+    ],
+    "answer": "php artisan make:seeder"
+  },
+  {
+    "id": 148,
+    "question": "Which Passport grant is authorization code?",
+    "options": [
+      "authorization_code",
+      "password",
+      "client_credentials",
+      "implicit"
+    ],
+    "answer": "authorization_code"
+  },
+  {
+    "id": 149,
+    "question": "Which REST status means request timeout?",
+    "options": ["408", "407", "406", "405"],
+    "answer": "408"
+  },
+  {
+    "id": 150,
+    "question": "Which Git command shows remote?",
+    "options": [
+      "git remote -v",
+      "git show remote",
+      "git list remote",
+      "git remote list"
+    ],
+    "answer": "git remote -v"
+  }
+]

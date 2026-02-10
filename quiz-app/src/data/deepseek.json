@@ -1,0 +1,1362 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Tech Modern Language",
+      "Hyper Transfer Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which HTML5 element is used for navigation links?",
+    "options": ["<nav>", "<menu>", "<navigate>", "<links>"],
+    "answer": "<nav>"
+  },
+  {
+    "question": "What is the purpose of CSS media queries?",
+    "options": [
+      "To apply different styles based on device characteristics",
+      "To connect to databases",
+      "To handle form validation",
+      "To create animations"
+    ],
+    "answer": "To apply different styles based on device characteristics"
+  },
+  {
+    "question": "In CSS, what does the 'box-sizing: border-box' property do?",
+    "options": [
+      "Includes padding and border in element's total width/height",
+      "Excludes margin from element dimensions",
+      "Sets default box shadow",
+      "Creates rounded corners"
+    ],
+    "answer": "Includes padding and border in element's total width/height"
+  },
+  {
+    "question": "What is the difference between 'display: flex' and 'display: grid'?",
+    "options": [
+      "Flex is for 1D layouts, Grid is for 2D layouts",
+      "Flex is for 2D layouts, Grid is for 1D layouts",
+      "Both are identical",
+      "Flex is deprecated, use Grid instead"
+    ],
+    "answer": "Flex is for 1D layouts, Grid is for 2D layouts"
+  },
+  {
+    "question": "Which JavaScript method is used to select an element by its ID?",
+    "options": [
+      "document.getElementById()",
+      "document.querySelector()",
+      "document.getElementByClass()",
+      "document.selectId()"
+    ],
+    "answer": "document.getElementById()"
+  },
+  {
+    "question": "What is the purpose of 'let' and 'const' in ES6?",
+    "options": [
+      "Block-scoped variable declarations",
+      "Function-scoped variable declarations",
+      "Global variable declarations",
+      "Constant function declarations"
+    ],
+    "answer": "Block-scoped variable declarations"
+  },
+  {
+    "question": "What is a JavaScript closure?",
+    "options": [
+      "A function with access to its outer function's scope",
+      "A way to close browser tabs",
+      "A method to stop event propagation",
+      "A type of loop"
+    ],
+    "answer": "A function with access to its outer function's scope"
+  },
+  {
+    "question": "What does the 'this' keyword refer to in JavaScript?",
+    "options": [
+      "The object that owns the executing function",
+      "Always refers to the window object",
+      "Refers to the parent class",
+      "Refers to the current file"
+    ],
+    "answer": "The object that owns the executing function"
+  },
+  {
+    "question": "What is the purpose of async/await in JavaScript?",
+    "options": [
+      "To write asynchronous code that looks synchronous",
+      "To create synchronous functions",
+      "To improve loop performance",
+      "To handle form submissions"
+    ],
+    "answer": "To write asynchronous code that looks synchronous"
+  },
+  {
+    "question": "In React, what is JSX?",
+    "options": [
+      "JavaScript XML syntax extension",
+      "A new programming language",
+      "A CSS preprocessor",
+      "A database query language"
+    ],
+    "answer": "JavaScript XML syntax extension"
+  },
+  {
+    "question": "What is the purpose of React hooks?",
+    "options": [
+      "To use state and lifecycle features in functional components",
+      "To connect to external APIs",
+      "To handle routing",
+      "To create class components"
+    ],
+    "answer": "To use state and lifecycle features in functional components"
+  },
+  {
+    "question": "Which hook is used for side effects in React?",
+    "options": ["useEffect", "useState", "useContext", "useReducer"],
+    "answer": "useEffect"
+  },
+  {
+    "question": "What is the virtual DOM in React?",
+    "options": [
+      "A lightweight copy of the real DOM for efficient updates",
+      "A new type of HTML element",
+      "A database for storing components",
+      "A CSS framework"
+    ],
+    "answer": "A lightweight copy of the real DOM for efficient updates"
+  },
+  {
+    "question": "What is the purpose of keys in React lists?",
+    "options": [
+      "To identify which items have changed, added, or removed",
+      "To encrypt component data",
+      "To connect to databases",
+      "To style list items"
+    ],
+    "answer": "To identify which items have changed, added, or removed"
+  },
+  {
+    "question": "What is Bootstrap's grid system based on?",
+    "options": [
+      "12-column fluid grid system",
+      "10-column fixed grid system",
+      "16-column responsive grid",
+      "8-column flexible grid"
+    ],
+    "answer": "12-column fluid grid system"
+  },
+  {
+    "question": "Which Bootstrap class creates a responsive navigation bar?",
+    "options": ["navbar", "nav", "menu", "header"],
+    "answer": "navbar"
+  },
+  {
+    "question": "What is Tailwind CSS?",
+    "options": [
+      "A utility-first CSS framework",
+      "A JavaScript library",
+      "A back-end framework",
+      "A database management tool"
+    ],
+    "answer": "A utility-first CSS framework"
+  },
+  {
+    "question": "How does Tailwind differ from Bootstrap?",
+    "options": [
+      "Tailwind provides utility classes, Bootstrap provides components",
+      "Tailwind is for backend, Bootstrap for frontend",
+      "Tailwind uses JavaScript, Bootstrap uses CSS",
+      "No difference, they are the same"
+    ],
+    "answer": "Tailwind provides utility classes, Bootstrap provides components"
+  },
+  {
+    "question": "What is jQuery?",
+    "options": [
+      "A fast, small JavaScript library",
+      "A CSS framework",
+      "A database system",
+      "A PHP framework"
+    ],
+    "answer": "A fast, small JavaScript library"
+  },
+  {
+    "question": "Which jQuery method is used to hide an element?",
+    "options": [".hide()", ".remove()", ".close()", ".toggle()"],
+    "answer": ".hide()"
+  },
+  {
+    "question": "What is Laravel?",
+    "options": [
+      "A PHP web application framework",
+      "A JavaScript library",
+      "A CSS preprocessor",
+      "A database system"
+    ],
+    "answer": "A PHP web application framework"
+  },
+  {
+    "question": "What is Laravel Eloquent?",
+    "options": [
+      "An ORM (Object-Relational Mapping)",
+      "A templating engine",
+      "A routing system",
+      "An authentication package"
+    ],
+    "answer": "An ORM (Object-Relational Mapping)"
+  },
+  {
+    "question": "What is Laravel Blade?",
+    "options": [
+      "A templating engine",
+      "A database migration tool",
+      "A testing framework",
+      "A caching system"
+    ],
+    "answer": "A templating engine"
+  },
+  {
+    "question": "What are Laravel migrations?",
+    "options": [
+      "Version control for database schema",
+      "Code deployment tools",
+      "File upload handlers",
+      "API versioning system"
+    ],
+    "answer": "Version control for database schema"
+  },
+  {
+    "question": "What is Laravel Sanctum used for?",
+    "options": [
+      "API token authentication",
+      "Database optimization",
+      "File storage",
+      "Queue management"
+    ],
+    "answer": "API token authentication"
+  },
+  {
+    "question": "What is Node.js?",
+    "options": [
+      "JavaScript runtime built on Chrome's V8 engine",
+      "A frontend framework",
+      "A database system",
+      "A CSS framework"
+    ],
+    "answer": "JavaScript runtime built on Chrome's V8 engine"
+  },
+  {
+    "question": "What is Express.js?",
+    "options": [
+      "A minimal web framework for Node.js",
+      "A database ORM",
+      "A testing framework",
+      "A template engine"
+    ],
+    "answer": "A minimal web framework for Node.js"
+  },
+  {
+    "question": "What is middleware in Express.js?",
+    "options": [
+      "Functions that execute during request/response cycle",
+      "Database connection handlers",
+      "Template rendering engines",
+      "File system utilities"
+    ],
+    "answer": "Functions that execute during request/response cycle"
+  },
+  {
+    "question": "What is EJS?",
+    "options": [
+      "Embedded JavaScript templating",
+      "Extended JavaScript syntax",
+      "Enterprise Java Services",
+      "Enhanced JSON Structure"
+    ],
+    "answer": "Embedded JavaScript templating"
+  },
+  {
+    "question": "What is MySQL?",
+    "options": [
+      "A relational database management system",
+      "A NoSQL database",
+      "A programming language",
+      "A web server"
+    ],
+    "answer": "A relational database management system"
+  },
+  {
+    "question": "What is the difference between SQL and NoSQL?",
+    "options": [
+      "SQL is relational, NoSQL is non-relational",
+      "SQL is faster, NoSQL is slower",
+      "SQL is for frontend, NoSQL for backend",
+      "No difference, they are the same"
+    ],
+    "answer": "SQL is relational, NoSQL is non-relational"
+  },
+  {
+    "question": "What is MongoDB?",
+    "options": [
+      "A document-oriented NoSQL database",
+      "A relational database",
+      "A SQL server",
+      "A caching system"
+    ],
+    "answer": "A document-oriented NoSQL database"
+  },
+  {
+    "question": "What is JWT (JSON Web Token)?",
+    "options": [
+      "A compact URL-safe means of representing claims",
+      "A database encryption method",
+      "A CSS framework",
+      "A JavaScript testing tool"
+    ],
+    "answer": "A compact URL-safe means of representing claims"
+  },
+  {
+    "question": "What is Passport.js?",
+    "options": [
+      "Authentication middleware for Node.js",
+      "A database migration tool",
+      "A file upload library",
+      "A CSS preprocessor"
+    ],
+    "answer": "Authentication middleware for Node.js"
+  },
+  {
+    "question": "What is REST API?",
+    "options": [
+      "Representational State Transfer - architectural style for APIs",
+      "A database query language",
+      "A JavaScript framework",
+      "A CSS methodology"
+    ],
+    "answer": "Representational State Transfer - architectural style for APIs"
+  },
+  {
+    "question": "What are HTTP methods used in RESTful APIs?",
+    "options": [
+      "GET, POST, PUT, DELETE, PATCH",
+      "READ, WRITE, UPDATE, REMOVE",
+      "FETCH, SEND, MODIFY, ERASE",
+      "SELECT, INSERT, UPDATE, DELETE"
+    ],
+    "answer": "GET, POST, PUT, DELETE, PATCH"
+  },
+  {
+    "question": "What is the purpose of Git?",
+    "options": [
+      "Version control system",
+      "Database management",
+      "Code compilation",
+      "Dependency management"
+    ],
+    "answer": "Version control system"
+  },
+  {
+    "question": "What is the difference between 'git pull' and 'git fetch'?",
+    "options": [
+      "Fetch downloads changes, pull downloads and merges",
+      "Pull downloads, fetch merges",
+      "Both are identical",
+      "Fetch is for local, pull is for remote"
+    ],
+    "answer": "Fetch downloads changes, pull downloads and merges"
+  },
+  {
+    "question": "What is Postman used for?",
+    "options": [
+      "API testing and development",
+      "Database management",
+      "Code editing",
+      "CSS debugging"
+    ],
+    "answer": "API testing and development"
+  },
+  {
+    "question": "What is CORS?",
+    "options": [
+      "Cross-Origin Resource Sharing",
+      "Content Optimization Resource System",
+      "Code Organization and Restructuring Service",
+      "Centralized Origin Resource Sharing"
+    ],
+    "answer": "Cross-Origin Resource Sharing"
+  },
+  {
+    "question": "What is the purpose of .env files?",
+    "options": [
+      "To store environment variables",
+      "To define HTML templates",
+      "To configure databases",
+      "To write CSS styles"
+    ],
+    "answer": "To store environment variables"
+  },
+  {
+    "question": "What is the difference between '==' and '===' in JavaScript?",
+    "options": [
+      "'==' checks value, '===' checks value and type",
+      "'===' checks value, '==' checks value and type",
+      "Both are identical",
+      "'==' is for strings, '===' is for numbers"
+    ],
+    "answer": "'==' checks value, '===' checks value and type"
+  },
+  {
+    "question": "What is a JavaScript promise?",
+    "options": [
+      "An object representing eventual completion/failure of async operation",
+      "A type of variable",
+      "A loop structure",
+      "A function declaration"
+    ],
+    "answer": "An object representing eventual completion/failure of async operation"
+  },
+  {
+    "question": "What is the purpose of try-catch block?",
+    "options": [
+      "To handle errors gracefully",
+      "To create loops",
+      "To define functions",
+      "To import modules"
+    ],
+    "answer": "To handle errors gracefully"
+  },
+  {
+    "question": "What is localStorage in JavaScript?",
+    "options": [
+      "Web storage API to store data with no expiration",
+      "A database system",
+      "A caching mechanism",
+      "A file storage system"
+    ],
+    "answer": "Web storage API to store data with no expiration"
+  },
+  {
+    "question": "What is sessionStorage?",
+    "options": [
+      "Web storage that clears when page session ends",
+      "Database session management",
+      "Cookie storage alternative",
+      "File storage system"
+    ],
+    "answer": "Web storage that clears when page session ends"
+  },
+  {
+    "question": "What are React props?",
+    "options": [
+      "Properties passed from parent to child components",
+      "Internal component state",
+      "CSS styles for components",
+      "Component lifecycle methods"
+    ],
+    "answer": "Properties passed from parent to child components"
+  },
+  {
+    "question": "What is React state?",
+    "options": [
+      "Internal data that changes over time in a component",
+      "External API data",
+      "CSS class names",
+      "Component props"
+    ],
+    "answer": "Internal data that changes over time in a component"
+  },
+  {
+    "question": "What is React Context API?",
+    "options": [
+      "Way to pass data through component tree without props drilling",
+      "State management library",
+      "Routing solution",
+      "Form handling library"
+    ],
+    "answer": "Way to pass data through component tree without props drilling"
+  },
+  {
+    "question": "What are React controlled components?",
+    "options": [
+      "Form elements controlled by React state",
+      "Components with no state",
+      "External library components",
+      "Server-side components"
+    ],
+    "answer": "Form elements controlled by React state"
+  },
+  {
+    "question": "What is React Router?",
+    "options": [
+      "Library for routing in React applications",
+      "State management tool",
+      "Form validation library",
+      "API client"
+    ],
+    "answer": "Library for routing in React applications"
+  },
+  {
+    "question": "What is Bootstrap's container class used for?",
+    "options": [
+      "To contain and center site content",
+      "To create navigation bars",
+      "To build carousels",
+      "To make buttons"
+    ],
+    "answer": "To contain and center site content"
+  },
+  {
+    "question": "What is Tailwind's @apply directive?",
+    "options": [
+      "To extract repeated utility patterns",
+      "To import external CSS",
+      "To create animations",
+      "To define variables"
+    ],
+    "answer": "To extract repeated utility patterns"
+  },
+  {
+    "question": "What is Laravel Artisan?",
+    "options": [
+      "Command-line interface for Laravel",
+      "Template engine",
+      "Database management tool",
+      "Authentication system"
+    ],
+    "answer": "Command-line interface for Laravel"
+  },
+  {
+    "question": "What is Laravel Tinker?",
+    "options": [
+      "REPL for Laravel applications",
+      "Testing framework",
+      "Caching system",
+      "Queue worker"
+    ],
+    "answer": "REPL for Laravel applications"
+  },
+  {
+    "question": "What are Laravel service providers?",
+    "options": [
+      "Central place to configure application services",
+      "API endpoint providers",
+      "Database connection managers",
+      "Authentication providers"
+    ],
+    "answer": "Central place to configure application services"
+  },
+  {
+    "question": "What is Laravel validation?",
+    "options": [
+      "Server-side form validation",
+      "Code syntax checking",
+      "Database validation",
+      "API response validation"
+    ],
+    "answer": "Server-side form validation"
+  },
+  {
+    "question": "What is Node.js NPM?",
+    "options": [
+      "Node Package Manager",
+      "Node Process Manager",
+      "New Project Manager",
+      "Network Package Module"
+    ],
+    "answer": "Node Package Manager"
+  },
+  {
+    "question": "What is package.json file?",
+    "options": [
+      "Project metadata and dependencies file",
+      "Package configuration file",
+      "Database schema file",
+      "Application settings file"
+    ],
+    "answer": "Project metadata and dependencies file"
+  },
+  {
+    "question": "What is Express Router?",
+    "options": [
+      "Modular route handlers",
+      "Database router",
+      "File router",
+      "Middleware router"
+    ],
+    "answer": "Modular route handlers"
+  },
+  {
+    "question": "What are Express route parameters?",
+    "options": [
+      "Dynamic segments in route paths",
+      "Query string parameters",
+      "Request headers",
+      "Response headers"
+    ],
+    "answer": "Dynamic segments in route paths"
+  },
+  {
+    "question": "What is SQL JOIN?",
+    "options": [
+      "Combine rows from two or more tables",
+      "Add new tables",
+      "Delete table data",
+      "Update table structure"
+    ],
+    "answer": "Combine rows from two or more tables"
+  },
+  {
+    "question": "What are SQL indexes?",
+    "options": [
+      "Database optimization feature for faster data retrieval",
+      "Table of contents",
+      "Data backup system",
+      "Security feature"
+    ],
+    "answer": "Database optimization feature for faster data retrieval"
+  },
+  {
+    "question": "What is MongoDB aggregation?",
+    "options": [
+      "Data processing pipeline",
+      "Database backup",
+      "Collection merging",
+      "Document encryption"
+    ],
+    "answer": "Data processing pipeline"
+  },
+  {
+    "question": "What are MongoDB indexes?",
+    "options": [
+      "Special data structures to improve query performance",
+      "Document identifiers",
+      "Collection names",
+      "Database backups"
+    ],
+    "answer": "Special data structures to improve query performance"
+  },
+  {
+    "question": "What is JWT structure?",
+    "options": [
+      "Header.Payload.Signature",
+      "Token.Key.Secret",
+      "Auth.Data.Sign",
+      "User.Payload.Hash"
+    ],
+    "answer": "Header.Payload.Signature"
+  },
+  {
+    "question": "What is bcrypt?",
+    "options": [
+      "Password hashing function",
+      "Data encryption algorithm",
+      "File compression tool",
+      "Network protocol"
+    ],
+    "answer": "Password hashing function"
+  },
+  {
+    "question": "What are REST API status codes?",
+    "options": [
+      "HTTP response codes indicating request outcome",
+      "Error messages",
+      "Success notifications",
+      "Warning alerts"
+    ],
+    "answer": "HTTP response codes indicating request outcome"
+  },
+  {
+    "question": "What is API rate limiting?",
+    "options": [
+      "Controlling number of requests from a client",
+      "Limiting response size",
+      "Controlling API access time",
+      "Restricting API endpoints"
+    ],
+    "answer": "Controlling number of requests from a client"
+  },
+  {
+    "question": "What is Git branching?",
+    "options": [
+      "Parallel development streams",
+      "Code backup system",
+      "Version numbering",
+      "Code review process"
+    ],
+    "answer": "Parallel development streams"
+  },
+  {
+    "question": "What is Git merge conflict?",
+    "options": [
+      "When changes from different branches conflict",
+      "When Git repository is corrupted",
+      "When network connection fails",
+      "When authentication fails"
+    ],
+    "answer": "When changes from different branches conflict"
+  },
+  {
+    "question": "What is Git stash?",
+    "options": [
+      "Temporarily save changes without committing",
+      "Permanently delete changes",
+      "Backup repository",
+      "Merge branches"
+    ],
+    "answer": "Temporarily save changes without committing"
+  },
+  {
+    "question": "What is Postman collection?",
+    "options": [
+      "Group of API requests",
+      "Database queries",
+      "Test scripts",
+      "Environment variables"
+    ],
+    "answer": "Group of API requests"
+  },
+  {
+    "question": "What is Postman environment?",
+    "options": [
+      "Set of variables for different setups",
+      "Database connection",
+      "API documentation",
+      "Testing framework"
+    ],
+    "answer": "Set of variables for different setups"
+  },
+  {
+    "question": "What is CORS preflight request?",
+    "options": [
+      "OPTIONS request before actual request",
+      "GET request for permissions",
+      "POST request for access",
+      "HEAD request for headers"
+    ],
+    "answer": "OPTIONS request before actual request"
+  },
+  {
+    "question": "What is MVC architecture?",
+    "options": [
+      "Model-View-Controller design pattern",
+      "Module-View-Component",
+      "Model-Variable-Controller",
+      "Main-View-Container"
+    ],
+    "answer": "Model-View-Controller design pattern"
+  },
+  {
+    "question": "What is dependency injection?",
+    "options": [
+      "Providing objects that an object needs",
+      "Injecting CSS into HTML",
+      "Adding JavaScript to page",
+      "Database connection injection"
+    ],
+    "answer": "Providing objects that an object needs"
+  },
+  {
+    "question": "What is middleware in Laravel?",
+    "options": [
+      "Filter HTTP requests entering application",
+      "Database layer",
+      "Template engine",
+      "Authentication system"
+    ],
+    "answer": "Filter HTTP requests entering application"
+  },
+  {
+    "question": "What is Laravel queue?",
+    "options": [
+      "Defer time-consuming tasks for background processing",
+      "Database query optimizer",
+      "Request handler",
+      "Response formatter"
+    ],
+    "answer": "Defer time-consuming tasks for background processing"
+  },
+  {
+    "question": "What is Laravel event broadcasting?",
+    "options": [
+      "Server-side events to client-side in real-time",
+      "Email notifications",
+      "Database updates",
+      "File uploads"
+    ],
+    "answer": "Server-side events to client-side in real-time"
+  },
+  {
+    "question": "What is Node.js event loop?",
+    "options": [
+      "Mechanism handling asynchronous operations",
+      "Loop for events",
+      "Event handler",
+      "Callback queue"
+    ],
+    "answer": "Mechanism handling asynchronous operations"
+  },
+  {
+    "question": "What is Express static middleware?",
+    "options": [
+      "Serve static files like images, CSS, JavaScript",
+      "Handle dynamic routes",
+      "Process form data",
+      "Parse JSON bodies"
+    ],
+    "answer": "Serve static files like images, CSS, JavaScript"
+  },
+  {
+    "question": "What is body-parser middleware?",
+    "options": [
+      "Parse incoming request bodies",
+      "Parse outgoing responses",
+      "Parse HTML documents",
+      "Parse JSON files"
+    ],
+    "answer": "Parse incoming request bodies"
+  },
+  {
+    "question": "What is SQL transaction?",
+    "options": [
+      "Sequence of operations performed as single unit",
+      "Database backup",
+      "Table creation",
+      "User authentication"
+    ],
+    "answer": "Sequence of operations performed as single unit"
+  },
+  {
+    "question": "What is ACID in databases?",
+    "options": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Authentication, Connection, Integration, Data",
+      "Access, Control, Integration, Design",
+      "API, Cache, Index, Database"
+    ],
+    "answer": "Atomicity, Consistency, Isolation, Durability"
+  },
+  {
+    "question": "What is MongoDB replication?",
+    "options": [
+      "Maintain multiple copies of data",
+      "Database backup",
+      "Data compression",
+      "Query optimization"
+    ],
+    "answer": "Maintain multiple copies of data"
+  },
+  {
+    "question": "What is MongoDB sharding?",
+    "options": [
+      "Horizontal partitioning of data across servers",
+      "Data encryption",
+      "Database backup",
+      "Query caching"
+    ],
+    "answer": "Horizontal partitioning of data across servers"
+  },
+  {
+    "question": "What is OAuth?",
+    "options": [
+      "Open standard for access delegation",
+      "Database authentication",
+      "File encryption",
+      "Network protocol"
+    ],
+    "answer": "Open standard for access delegation"
+  },
+  {
+    "question": "What is API documentation?",
+    "options": [
+      "Technical content describing API",
+      "Code comments",
+      "Database schema",
+      "User manual"
+    ],
+    "answer": "Technical content describing API"
+  },
+  {
+    "question": "What is API versioning?",
+    "options": [
+      "Managing changes to API over time",
+      "API security",
+      "API testing",
+      "API monitoring"
+    ],
+    "answer": "Managing changes to API over time"
+  },
+  {
+    "question": "What is Git rebase?",
+    "options": [
+      "Reapply commits on top of another base tip",
+      "Merge branches",
+      "Delete commits",
+      "Create branches"
+    ],
+    "answer": "Reapply commits on top of another base tip"
+  },
+  {
+    "question": "What is Git cherry-pick?",
+    "options": [
+      "Apply specific commit from one branch to another",
+      "Select files to commit",
+      "Choose branches to merge",
+      "Pick commits to delete"
+    ],
+    "answer": "Apply specific commit from one branch to another"
+  },
+  {
+    "question": "What is Postman pre-request script?",
+    "options": [
+      "JavaScript executed before request is sent",
+      "Request validation",
+      "Response parsing",
+      "Environment setup"
+    ],
+    "answer": "JavaScript executed before request is sent"
+  },
+  {
+    "question": "What is Postman test script?",
+    "options": [
+      "JavaScript executed after response is received",
+      "Request builder",
+      "Environment variable setter",
+      "Collection organizer"
+    ],
+    "answer": "JavaScript executed after response is received"
+  },
+  {
+    "question": "What is Cross-Site Scripting (XSS)?",
+    "options": [
+      "Security vulnerability allowing malicious scripts",
+      "CSS injection",
+      "JavaScript optimization",
+      "HTML validation"
+    ],
+    "answer": "Security vulnerability allowing malicious scripts"
+  },
+  {
+    "question": "What is SQL injection?",
+    "options": [
+      "Code injection technique attacking databases",
+      "SQL optimization",
+      "Database backup",
+      "Query optimization"
+    ],
+    "answer": "Code injection technique attacking databases"
+  },
+  {
+    "question": "What is CSRF protection?",
+    "options": [
+      "Cross-Site Request Forgery protection",
+      "Cookie security",
+      "Session management",
+      "API security"
+    ],
+    "answer": "Cross-Site Request Forgery protection"
+  },
+  {
+    "question": "What is responsive web design?",
+    "options": [
+      "Websites that work on all devices and screen sizes",
+      "Fast loading websites",
+      "Interactive websites",
+      "Animated websites"
+    ],
+    "answer": "Websites that work on all devices and screen sizes"
+  },
+  {
+    "question": "What is progressive enhancement?",
+    "options": [
+      "Start with basic functionality, enhance for capable browsers",
+      "Make website progressive",
+      "Enhance performance progressively",
+      "Gradually add features"
+    ],
+    "answer": "Start with basic functionality, enhance for capable browsers"
+  },
+  {
+    "question": "What is web accessibility?",
+    "options": [
+      "Making websites usable by people with disabilities",
+      "Making websites faster",
+      "Making websites secure",
+      "Making websites responsive"
+    ],
+    "answer": "Making websites usable by people with disabilities"
+  },
+  {
+    "question": "What is SEO?",
+    "options": [
+      "Search Engine Optimization",
+      "Secure Email Operations",
+      "System Efficiency Optimization",
+      "Software Engineering Operations"
+    ],
+    "answer": "Search Engine Optimization"
+  },
+  {
+    "question": "What is webpack?",
+    "options": [
+      "Module bundler for JavaScript applications",
+      "Web server",
+      "Database system",
+      "Testing framework"
+    ],
+    "answer": "Module bundler for JavaScript applications"
+  },
+  {
+    "question": "What is Babel?",
+    "options": [
+      "JavaScript compiler for converting ES6+ to backward compatible JS",
+      "CSS preprocessor",
+      "HTML validator",
+      "Database migrator"
+    ],
+    "answer": "JavaScript compiler for converting ES6+ to backward compatible JS"
+  },
+  {
+    "question": "What is ESLint?",
+    "options": [
+      "JavaScript linting tool",
+      "CSS validator",
+      "HTML formatter",
+      "Code compiler"
+    ],
+    "answer": "JavaScript linting tool"
+  },
+  {
+    "question": "What is Prettier?",
+    "options": [
+      "Code formatter",
+      "Code compiler",
+      "Code optimizer",
+      "Code validator"
+    ],
+    "answer": "Code formatter"
+  },
+  {
+    "question": "What is Docker?",
+    "options": [
+      "Containerization platform",
+      "Virtual machine",
+      "Cloud service",
+      "Database system"
+    ],
+    "answer": "Containerization platform"
+  },
+  {
+    "question": "What is CI/CD?",
+    "options": [
+      "Continuous Integration/Continuous Deployment",
+      "Code Integration/Code Deployment",
+      "Continuous Improvement/Continuous Development",
+      "Code Inspection/Code Delivery"
+    ],
+    "answer": "Continuous Integration/Continuous Deployment"
+  },
+  {
+    "question": "What is unit testing?",
+    "options": [
+      "Testing individual units/components of software",
+      "Testing complete application",
+      "Testing user interface",
+      "Testing database"
+    ],
+    "answer": "Testing individual units/components of software"
+  },
+  {
+    "question": "What is integration testing?",
+    "options": [
+      "Testing combined parts of application",
+      "Testing single functions",
+      "Testing UI components",
+      "Testing APIs separately"
+    ],
+    "answer": "Testing combined parts of application"
+  },
+  {
+    "question": "What is end-to-end testing?",
+    "options": [
+      "Testing complete application flow from start to end",
+      "Testing individual modules",
+      "Testing database queries",
+      "Testing API endpoints"
+    ],
+    "answer": "Testing complete application flow from start to end"
+  },
+  {
+    "question": "What is test-driven development?",
+    "options": [
+      "Write tests before writing code",
+      "Write code before tests",
+      "Test after deployment",
+      "No testing approach"
+    ],
+    "answer": "Write tests before writing code"
+  },
+  {
+    "question": "What is agile methodology?",
+    "options": [
+      "Iterative approach to project management",
+      "Waterfall model",
+      "Spiral model",
+      "V-model"
+    ],
+    "answer": "Iterative approach to project management"
+  },
+  {
+    "question": "What is scrum?",
+    "options": [
+      "Agile framework for developing complex products",
+      "Programming language",
+      "Database system",
+      "Testing framework"
+    ],
+    "answer": "Agile framework for developing complex products"
+  },
+  {
+    "question": "What is kanban?",
+    "options": [
+      "Visual workflow management method",
+      "Programming paradigm",
+      "Database design",
+      "Testing method"
+    ],
+    "answer": "Visual workflow management method"
+  },
+  {
+    "question": "What is pair programming?",
+    "options": [
+      "Two programmers working together at one workstation",
+      "Programming competitions",
+      "Code review process",
+      "Team meetings"
+    ],
+    "answer": "Two programmers working together at one workstation"
+  },
+  {
+    "question": "What is code review?",
+    "options": [
+      "Systematic examination of source code",
+      "Code compilation",
+      "Code execution",
+      "Code deployment"
+    ],
+    "answer": "Systematic examination of source code"
+  },
+  {
+    "question": "What is refactoring?",
+    "options": [
+      "Restructuring existing code without changing external behavior",
+      "Rewriting code from scratch",
+      "Adding new features",
+      "Fixing bugs"
+    ],
+    "answer": "Restructuring existing code without changing external behavior"
+  },
+  {
+    "question": "What is technical debt?",
+    "options": [
+      "Implied cost of additional rework from choosing easy solution",
+      "Money owed for software",
+      "Development costs",
+      "Maintenance fees"
+    ],
+    "answer": "Implied cost of additional rework from choosing easy solution"
+  },
+  {
+    "question": "What is API gateway?",
+    "options": [
+      "Single entry point for all client requests to microservices",
+      "Database gateway",
+      "Network gateway",
+      "Security gateway"
+    ],
+    "answer": "Single entry point for all client requests to microservices"
+  },
+  {
+    "question": "What is load balancing?",
+    "options": [
+      "Distributing network traffic across multiple servers",
+      "Balancing code quality",
+      "Managing database loads",
+      "Controlling API calls"
+    ],
+    "answer": "Distributing network traffic across multiple servers"
+  },
+  {
+    "question": "What is caching?",
+    "options": [
+      "Storing data temporarily for faster access",
+      "Deleting old data",
+      "Backing up data",
+      "Encrypting data"
+    ],
+    "answer": "Storing data temporarily for faster access"
+  },
+  {
+    "question": "What is CDN?",
+    "options": [
+      "Content Delivery Network",
+      "Code Development Network",
+      "Content Distribution Node",
+      "Continuous Delivery Network"
+    ],
+    "answer": "Content Delivery Network"
+  },
+  {
+    "question": "What is web socket?",
+    "options": [
+      "Communication protocol for real-time bidirectional communication",
+      "Web server socket",
+      "Database connection",
+      "File transfer protocol"
+    ],
+    "answer": "Communication protocol for real-time bidirectional communication"
+  },
+  {
+    "question": "What is server-side rendering?",
+    "options": [
+      "Rendering web pages on server before sending to client",
+      "Rendering on client browser",
+      "Rendering on CDN",
+      "Rendering on proxy"
+    ],
+    "answer": "Rendering web pages on server before sending to client"
+  },
+  {
+    "question": "What is client-side rendering?",
+    "options": [
+      "Rendering web pages in browser using JavaScript",
+      "Rendering on server",
+      "Rendering on CDN",
+      "Rendering on API"
+    ],
+    "answer": "Rendering web pages in browser using JavaScript"
+  },
+  {
+    "question": "What is isomorphic JavaScript?",
+    "options": [
+      "Same code runs on both client and server",
+      "Different code for client and server",
+      "JavaScript for mobile only",
+      "JavaScript for desktop only"
+    ],
+    "answer": "Same code runs on both client and server"
+  },
+  {
+    "question": "What is microservices architecture?",
+    "options": [
+      "Developing application as suite of small services",
+      "Monolithic architecture",
+      "Client-server architecture",
+      "Peer-to-peer architecture"
+    ],
+    "answer": "Developing application as suite of small services"
+  },
+  {
+    "question": "What is monolithic architecture?",
+    "options": [
+      "Single unified unit for all application functions",
+      "Multiple independent services",
+      "Client-side only application",
+      "Server-side only application"
+    ],
+    "answer": "Single unified unit for all application functions"
+  },
+  {
+    "question": "What is serverless architecture?",
+    "options": [
+      "Building applications without managing infrastructure",
+      "No server required",
+      "Client-only applications",
+      "Static websites only"
+    ],
+    "answer": "Building applications without managing infrastructure"
+  },
+  {
+    "question": "What is GraphQL?",
+    "options": [
+      "Query language for APIs and runtime for executing queries",
+      "Database language",
+      "Programming language",
+      "Markup language"
+    ],
+    "answer": "Query language for APIs and runtime for executing queries"
+  },
+  {
+    "question": "What is REST vs GraphQL?",
+    "options": [
+      "REST has fixed endpoints, GraphQL has flexible queries",
+      "Both are identical",
+      "GraphQL is faster than REST",
+      "REST is newer than GraphQL"
+    ],
+    "answer": "REST has fixed endpoints, GraphQL has flexible queries"
+  },
+  {
+    "question": "What is WebRTC?",
+    "options": [
+      "Real-time communication between web browsers",
+      "Web server communication",
+      "Database communication",
+      "File transfer protocol"
+    ],
+    "answer": "Real-time communication between web browsers"
+  },
+  {
+    "question": "What is service worker?",
+    "options": [
+      "Script that runs in background separate from web page",
+      "Server worker",
+      "Database worker",
+      "API worker"
+    ],
+    "answer": "Script that runs in background separate from web page"
+  },
+  {
+    "question": "What is PWA?",
+    "options": [
+      "Progressive Web App",
+      "Personal Web Application",
+      "Progressive Web API",
+      "Personal Web API"
+    ],
+    "answer": "Progressive Web App"
+  },
+  {
+    "question": "What is JAMstack?",
+    "options": [
+      "JavaScript, APIs, and Markup",
+      "Java, Apache, MySQL",
+      "JavaScript, Angular, MongoDB",
+      "jQuery, Apache, Markdown"
+    ],
+    "answer": "JavaScript, APIs, and Markup"
+  },
+  {
+    "question": "What is SPA?",
+    "options": [
+      "Single Page Application",
+      "Server Page Application",
+      "Simple Page Application",
+      "Static Page Application"
+    ],
+    "answer": "Single Page Application"
+  },
+  {
+    "question": "What is MPA?",
+    "options": [
+      "Multi Page Application",
+      "Mobile Page Application",
+      "Modern Page Application",
+      "Main Page Application"
+    ],
+    "answer": "Multi Page Application"
+  }
+]

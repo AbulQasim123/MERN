@@ -1,0 +1,252 @@
+[
+    {
+        "authors": [
+            {
+                "name": "Aarav Sharma",
+                "email": "aarav.s@example.com",
+                "short_bio": "Award-winning novelist specializing in contemporary fiction."
+            },
+            {
+                "name": "Ishani Verma",
+                "email": "ishani.v@example.com",
+                "short_bio": "Historian and researcher with a focus on ancient civilizations."
+            },
+            {
+                "name": "Kabir Das",
+                "email": "kabir.d@example.com",
+                "short_bio": "Poet and philosopher exploring spiritual themes in modern life."
+            },
+            {
+                "name": "Meera Iyer",
+                "email": "meera.i@example.com",
+                "short_bio": "Science fiction writer known for world-building and technology ethics."
+            },
+            {
+                "name": "Rohan Gupta",
+                "email": "rohan.g@example.com",
+                "short_bio": "Business strategist and author of multiple self-help bestsellers."
+            },
+            {
+                "name": "Sanya Malhotra",
+                "email": "sanya.m@example.com",
+                "short_bio": "Mystery writer who creates intricate plots and suspenseful endings."
+            },
+            {
+                "name": "Vikram Singh",
+                "email": "vikram.s@example.com",
+                "short_bio": "Travel journalist documenting cultures across the globe."
+            },
+            {
+                "name": "Ananya Rai",
+                "email": "ananya.r@example.com",
+                "short_bio": "Children's book author focused on educational storytelling."
+            },
+            {
+                "name": "Zane Malik",
+                "email": "zane.m@example.com",
+                "short_bio": "Graphic novelist and illustrator with a dark, cinematic style."
+            },
+            {
+                "name": "Priya Kapoor",
+                "email": "priya.k@example.com",
+                "short_bio": "Cookbook author and culinary expert in fusion cuisine."
+            }
+        ],
+        "categories": [
+            {
+                "name": "Fiction",
+                "description": "Creative narration and imaginary stories."
+            },
+            {
+                "name": "Science",
+                "description": "Books covering physics, biology, and chemistry discoveries."
+            },
+            {
+                "name": "History",
+                "description": "Detailed accounts of past events and civilizations."
+            },
+            {
+                "name": "Self-Help",
+                "description": "Guides for personal growth and mental well-being."
+            },
+            {
+                "name": "Technology",
+                "description": "Latest trends in software, AI, and hardware."
+            },
+            {
+                "name": "Mystery",
+                "description": "Suspenseful stories involving crime and puzzles."
+            },
+            {
+                "name": "Biography",
+                "description": "True stories of notable individuals' lives."
+            },
+            {
+                "name": "Fantasy",
+                "description": "Magic, mythical creatures, and otherworldly adventures."
+            },
+            {
+                "name": "Business",
+                "description": "Finance, management, and entrepreneurship insights."
+            },
+            {
+                "name": "Poetry",
+                "description": "Literary work expressing feelings and ideas with rhythm."
+            }
+        ],
+        "books": [
+            {
+                "title": "The Silent Echo",
+                "isbn": "978-1234567890",
+                "pages": 320,
+                "price": 499.00,
+                "publishedDate": "2023-05-12",
+                "summary": "A gripping tale of secrets in a small mountain village."
+            },
+            {
+                "title": "Future Minds",
+                "isbn": "978-0987654321",
+                "pages": 250,
+                "price": 750.00,
+                "publishedDate": "2024-01-20",
+                "summary": "Exploring the impact of Artificial Intelligence on human evolution."
+            },
+            {
+                "title": "Ancient Paths",
+                "isbn": "978-1122334455",
+                "pages": 410,
+                "price": 599.00,
+                "publishedDate": "2022-11-15",
+                "summary": "A deep dive into the lost cities of the Indus Valley."
+            },
+            {
+                "title": "Mind Over Matter",
+                "isbn": "978-5566778899",
+                "pages": 180,
+                "price": 299.00,
+                "publishedDate": "2025-03-01",
+                "summary": "Practical steps to building resilience and mental strength."
+            },
+            {
+                "title": "Code Secrets",
+                "isbn": "978-9988776655",
+                "pages": 500,
+                "price": 1200.00,
+                "publishedDate": "2023-08-10",
+                "summary": "The ultimate guide to mastering cybersecurity."
+            },
+            {
+                "title": "Shadow Games",
+                "isbn": "978-4433221100",
+                "pages": 350,
+                "price": 450.00,
+                "publishedDate": "2024-06-25",
+                "summary": "A detective faces his toughest case yet in a corrupt city."
+            },
+            {
+                "title": "Wings of Hope",
+                "isbn": "978-7788990011",
+                "pages": 210,
+                "price": 350.00,
+                "publishedDate": "2021-12-05",
+                "summary": "An inspirational biography of a social activist."
+            },
+            {
+                "title": "Dragon's Realm",
+                "isbn": "978-3344556677",
+                "pages": 480,
+                "price": 650.00,
+                "publishedDate": "2025-02-14",
+                "summary": "An epic journey through a world ruled by ancient dragons."
+            },
+            {
+                "title": "Market Trends",
+                "isbn": "978-2233445566",
+                "pages": 290,
+                "price": 899.00,
+                "publishedDate": "2024-10-30",
+                "summary": "Analyzing the global economy for the next decade."
+            },
+            {
+                "title": "Rhythmic Souls",
+                "isbn": "978-0011223344",
+                "pages": 120,
+                "price": 199.00,
+                "publishedDate": "2023-02-18",
+                "summary": "A collection of modern haikus and free-verse poetry."
+            }
+        ],
+        "members": [
+            {
+                "name": "Rahul Khanna",
+                "email": "rahul.k@mail.com",
+                "phone": "+91-9876543210",
+                "address": "123 Green Park, Delhi",
+                "status": "Active"
+            },
+            {
+                "name": "Sneha Patil",
+                "email": "sneha.p@mail.com",
+                "phone": "+91-8765432109",
+                "address": "45 Blue View, Mumbai",
+                "status": "Active"
+            },
+            {
+                "name": "Amit Shah",
+                "email": "amit.s@mail.com",
+                "phone": "+91-7654321098",
+                "address": "78 Red Hill, Bangalore",
+                "status": "Inactive"
+            },
+            {
+                "name": "Pooja Hegde",
+                "email": "pooja.h@mail.com",
+                "phone": "+91-6543210987",
+                "address": "12 Yellow Lane, Hyderabad",
+                "status": "Active"
+            },
+            {
+                "name": "Arjun Reddy",
+                "email": "arjun.r@mail.com",
+                "phone": "+91-5432109876",
+                "address": "90 White Flats, Chennai",
+                "status": "Suspended"
+            },
+            {
+                "name": "Divya Nair",
+                "email": "divya.n@mail.com",
+                "phone": "+91-4321098765",
+                "address": "56 Black Street, Kochi",
+                "status": "Active"
+            },
+            {
+                "name": "Manish Tyagi",
+                "email": "manish.t@mail.com",
+                "phone": "+91-3210987654",
+                "address": "34 Grey Villa, Pune",
+                "status": "Active"
+            },
+            {
+                "name": "Kriti Sanon",
+                "email": "kriti.s@mail.com",
+                "phone": "+91-2109876543",
+                "address": "88 Silver Road, Kolkata",
+                "status": "Inactive"
+            },
+            {
+                "name": "Varun Dhawan",
+                "email": "varun.d@mail.com",
+                "phone": "+91-1098765432",
+                "address": "21 Golden Gate, Jaipur",
+                "status": "Active"
+            },
+            {
+                "name": "Sara Ali",
+                "email": "sara.a@mail.com",
+                "phone": "+91-9988776655",
+                "address": "67 Bronze Apt, Lucknow",
+                "status": "Active"
+            }
+        ]
+    }
+]
